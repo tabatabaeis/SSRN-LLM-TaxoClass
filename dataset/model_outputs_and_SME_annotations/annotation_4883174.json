@@ -1,0 +1,150 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "ERN: Evolutionary Games (Topic)",
+            "path": "Game Theory & Bargaining Theory eJournal"
+        },
+        {
+            "label": "Evolutionary Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Ecosystem Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Population Ecology eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Ecological Modeling eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Evolutionary Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Ecosystem Ecology eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Ecological Modeling eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Evolutionary Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Global Ecological Change & Pollution Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Nonlinear Dynamics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "PSN: Computational Models of Political Behavior (Topic)",
+            "path": "Political Behavior: Cognition, Psychology, & Behavior eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Ecological Modeling eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Population Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Evolutionary Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Computational Biology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "OPER: Computational (Topic)",
+            "path": "Stochastic Models eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Ecological Modeling eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Population Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Mathematical Biology eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Dynamical Systems eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "ERN: Simulation Methods (Topic)",
+            "path": "Econometrics: Econometric & Statistical Methods - General eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Ecological Modeling eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Evolutionary Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Population Ecology eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Ecology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "ERN: Non-Cooperative Games (Topic)",
+            "path": "Game Theory & Bargaining Theory eJournal"
+        },
+        {
+            "label": "Marine Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Evolutionary Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "OPER: Computational (Topic)",
+            "path": "Stochastic Models eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

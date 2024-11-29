@@ -1,0 +1,126 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Cognitive Neuroscience eJournal",
+            "path": "Cognitive Science Network"
+        },
+        {
+            "label": "Neurobiology of Cognitive Perception, Learning & Memory eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Human Cognition in Evolution & Development eJournal",
+            "path": "Cognitive Science Network"
+        },
+        {
+            "label": "Motivated Neurobehaviors & Addictive Disorders eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Developmental Neurobiology & Neuroplasticity eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Sensory Neurobiology & Processing eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neurobiology of Cognitive Perception, Learning & Memory eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Computational Neuroscience & Artificial Neural Networks eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Neurobiology of Cognitive Perception, Learning & Memory eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Sensory Neurobiology & Processing eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neurobiology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Evolutionary, Animal & Veterinary Neuroscience eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neural Signaling, Neurotransmitters & Synaptic Neurobiology eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Neurobiology of Cognitive Perception, Learning & Memory eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Cellular & Molecular Neurobiology eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neural Signaling, Neurotransmitters & Synaptic Neurobiology eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Sensory Neurobiology & Processing eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neural Signaling, Neurotransmitters & Synaptic Neurobiology eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neurobiology of Cognitive Perception, Learning & Memory eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neurobiology eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "PsychRN: Memory & Learning (Topic)",
+            "path": "Cognitive Psychology eJournal"
+        },
+        {
+            "label": "Neuropharmacology & Neurotoxicology eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Motivated Neurobehaviors & Addictive Disorders eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neuroscience Public Health eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

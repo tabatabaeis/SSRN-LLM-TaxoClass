@@ -1,0 +1,150 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Nutrition eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Diabetes & Endocrinology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Carbohydrate & Lipid Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        },
+        {
+            "label": "Biochemistry eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biochemical Mechanisms eJournal",
+            "path": "Biochemistry Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Gastroenterology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Urology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Critical Care eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Gastroenterology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Nutrition eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Sports Medicine eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Physiology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Gastroenterology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Human Health & Disease eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Small Molecule Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        },
+        {
+            "label": "Protein & Peptide Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Gastroenterology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Sports Medicine eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Biochemistry eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biochemical Mechanisms eJournal",
+            "path": "Biochemistry Research Network"
+        },
+        {
+            "label": "Medical, Pharmaceutical & Pharmacological Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Gastroenterology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Biochemistry eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Toxicology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Human Health & Disease eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Gastroenterology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Human Health & Disease eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Protein & Peptide Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        },
+        {
+            "label": "Nutrition eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Carbohydrate & Lipid Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

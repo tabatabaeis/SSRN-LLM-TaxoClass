@@ -1,0 +1,118 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Maternal & Neonatal Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "SIRN: State Child Health Insurance Program (Sub-Topic)",
+            "path": "SIRN: Medicaid (Health Care Delivery) (Topic)"
+        },
+        {
+            "label": "SIRN: Overall Income Security (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Environment & Human Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Global Health Organizations & Partnerships eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Health Systems & Hospital Infrastructure eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Health Care Delivery & Financing eJournal",
+            "path": "Social Insurance Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Health Care Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "SIRN: State Child Health Insurance Program (Sub-Topic)",
+            "path": "SIRN: Medicaid (Health Care Delivery) (Topic)"
+        },
+        {
+            "label": "SIRN: International Comparisons (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        },
+        {
+            "label": "Maternal & Neonatal Health eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "SIRN: State Child Health Insurance Program (Sub-Topic)",
+            "path": "SIRN: Medicaid (Health Care Delivery) (Topic)"
+        },
+        {
+            "label": "ERN: Health Care Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "SIRN: International Comparisons (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Medicaid (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        },
+        {
+            "label": "PsychRN: Prenatal & Infant Development (Topic)",
+            "path": "Developmental Psychology eJournal"
+        },
+        {
+            "label": "Child & Adolescent Health eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Finance & Economics of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "ERN: Health Care Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Maternal & Neonatal Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Health & the Economy eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

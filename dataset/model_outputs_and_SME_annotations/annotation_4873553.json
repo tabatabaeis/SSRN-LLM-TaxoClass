@@ -1,0 +1,114 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "ERPN: Bankruptcy (Sub-Topic)",
+            "path": "ERPN: Regulation (Topic)"
+        },
+        {
+            "label": "SIRN: Duration of Unemployment & Re-Employment (Sub-Topic)",
+            "path": "SIRN: Wage Replacement Policies (Topic)"
+        },
+        {
+            "label": "ERN: Credit Risk (Topic)",
+            "path": "Econometric Modeling: Capital Markets - Risk eJournal"
+        },
+        {
+            "label": "ERN: Financial Crises (Monetary) (Topic)",
+            "path": "Monetary Economics: International Financial Flows, Financial Crises, Regulation & Supervision eJournal"
+        },
+        {
+            "label": "Financial Crises eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Coverage (Sub-Topic)",
+            "path": "SIRN: Wage Replacement Policies (Topic)"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Unemployment Insurance eJournal",
+            "path": "Social Insurance Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Duration of Unemployment & Re-Employment (Sub-Topic)",
+            "path": "SIRN: Wage Replacement Policies (Topic)"
+        },
+        {
+            "label": "Household Finance eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Bankruptcy, Reorganization & Creditors eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "SIRN: Duration of Unemployment & Re-Employment (Sub-Topic)",
+            "path": "SIRN: Wage Replacement Policies (Topic)"
+        },
+        {
+            "label": "Household Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Labor: Supply & Demand eJournal",
+            "path": "Labor eJournals"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Extended Benefits & Emergency Benefits (Sub-Topic)",
+            "path": "SIRN: Wage Replacement Policies (Topic)"
+        },
+        {
+            "label": "SIRN: The Intersection of Social Welfare & Social Insurance (Topic)",
+            "path": "Poverty, Income Distribution & Income Assistance eJournal"
+        },
+        {
+            "label": "Household Finance eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ERN: Comparative Static General Equilibrium Models (Topic)",
+            "path": "Microeconomics: General Equilibrium & Disequilibrium Models eJournal"
+        },
+        {
+            "label": "Household Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Labor: Public Policy & Regulation eJournal",
+            "path": "Labor eJournals"
+        },
+        {
+            "label": "ERN: Credit Risk (Topic)",
+            "path": "Econometric Modeling: Capital Markets - Risk eJournal"
+        },
+        {
+            "label": "SIRN: The Intersection of Social Welfare & Social Insurance (Topic)",
+            "path": "Poverty, Income Distribution & Income Assistance eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

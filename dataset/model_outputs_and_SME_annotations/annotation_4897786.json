@@ -1,0 +1,150 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "PSN: Energy (Development) (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        },
+        {
+            "label": "PSN: Renewable Resources & Energy (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "Renewable Energy eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "ERN: Exploitation of Renewable & Non-Renewables Natural Resources & the Environment (Topic)",
+            "path": "Development Economics: Agriculture, Natural Resources, & Environmental Impact eJournal"
+        },
+        {
+            "label": "Energy Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Renewable Energy eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Energy & Environmental Science eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Bioenergy & Other Renewable Energy eJournal",
+            "path": "Energy Research Network"
+        },
+        {
+            "label": "Solar Energy eJournal",
+            "path": "Energy Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Renewable Energy eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Renewable Resources & Energy (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "Renewable Energy eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Solar Energy eJournal",
+            "path": "Energy Research Network"
+        },
+        {
+            "label": "Bioenergy & Other Renewable Energy eJournal",
+            "path": "Energy Research Network"
+        },
+        {
+            "label": "Energy & Environmental Science eJournal",
+            "path": "Environmental Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "PSN: Renewable Resources & Energy (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "Renewable Energy eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Energy eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Solar Energy eJournal",
+            "path": "Energy Research Network"
+        },
+        {
+            "label": "Politics & Energy eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Renewable Energy eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "PSN: Renewable Resources & Energy (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "ERN: Africa (Development) (Topic)",
+            "path": "Development Economics: Regional & Country Studies eJournal"
+        },
+        {
+            "label": "ERN: Energy Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "ERN: Exploitation of Renewable & Non-Renewables Natural Resources & the Environment (Topic)",
+            "path": "Development Economics: Agriculture, Natural Resources, & Environmental Impact eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Politics & Energy eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "PSN: Energy (Development) (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        },
+        {
+            "label": "ERN: Energy Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "ERN: Urban & Rural Analysis in Developing Economies (Topic)",
+            "path": "Development Economics: Microeconomic Issues in Developing Economies eJournal"
+        },
+        {
+            "label": "Energy Engineering eJournal",
+            "path": "Engineering Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

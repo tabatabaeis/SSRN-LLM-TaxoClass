@@ -1,0 +1,118 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Law & Society: Public Law - Courts eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: The Legal Profession eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: Public Law - Courts eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Australian Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Federal Courts & Jurisdiction eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "CGN: Laws & Arrangements Set by Courts (Sub-Topic)",
+            "path": "CGN: Governance Laws & Arrangements by Source (Topic)"
+        },
+        {
+            "label": "Corporate Governance Practice eJournal",
+            "path": "Corporate Governance Network"
+        },
+        {
+            "label": "Innovation Areas eJournals",
+            "path": "Innovation Research & Policy Network"
+        },
+        {
+            "label": "Social Sciences",
+            "path": ""
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: The Legal Profession eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Courts eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Positive Political Theory eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: The Legal Profession eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Courts eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Courts eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: Public Law - Courts eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Courts eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Civil Procedure eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Jurisprudence & Legal Philosophy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Comparative Law & Trans-National Studies eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Courts eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

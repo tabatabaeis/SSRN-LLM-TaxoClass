@@ -1,0 +1,118 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "ERN: Tax Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "ERN: Tax Evasion (Topic)",
+            "path": "Political Economy: Taxation, Subsidies, & Revenue eJournal"
+        },
+        {
+            "label": "Labor: Demographics & Economics of the Family eJournal",
+            "path": "Labor eJournals"
+        },
+        {
+            "label": "WGSRN: Gender Equality, Macroeconomics & Institutional Change (Sub-Topic)",
+            "path": "WGSRN: Gender & Development (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Behavioral Economics (Topic)",
+            "path": "Behavioral & Experimental Economics eJournal"
+        },
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "History of Economics eJournal",
+            "path": "Economics Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Tax eJournal",
+            "path": "Accounting Research Network"
+        },
+        {
+            "label": "ERN: Tax Evasion (Topic)",
+            "path": "Political Economy: Taxation, Subsidies, & Revenue eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Tax Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "ERN: Personal Income & Other Non-Business Taxes & Subsidies (Topic)",
+            "path": "Political Economy: Taxation, Subsidies, & Revenue eJournal"
+        },
+        {
+            "label": "PSN: Income Tax (Topic)",
+            "path": "Comparative Political Economy: Fiscal Policy eJournal"
+        },
+        {
+            "label": "ERN: Taxation, Subsidies, & Revenue (Topic)",
+            "path": "European Economics: Political Economy & Public Economics eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "ERN: Tax Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "ERN: Personal Income & Other Non-Business Taxes & Subsidies (Topic)",
+            "path": "Political Economy: Taxation, Subsidies, & Revenue eJournal"
+        },
+        {
+            "label": "Public Economics: Taxation, Subsidies, & Revenue eJournal",
+            "path": "Public Economics eJournals"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "ERN: Tax Evasion (Topic)",
+            "path": "Political Economy: Taxation, Subsidies, & Revenue eJournal"
+        },
+        {
+            "label": "ERN: Tax Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "ERN: Household (Topic)",
+            "path": "Political Economy: Fiscal Policies & Behavior of Economic Agents eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ERN: Efficiency; Optimal Taxation (Topic)",
+            "path": "Political Economy: Taxation, Subsidies, & Revenue eJournal"
+        },
+        {
+            "label": "Public Economics: Miscellaneous Issues eJournal",
+            "path": "Public Economics eJournals"
+        },
+        {
+            "label": "ERN: National Budget, Deficit, & Debt (Topic)",
+            "path": "European Economics: Political Economy & Public Economics eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

@@ -1,0 +1,6 @@
+{
+    "AB_ID": 4889879,
+    "AB_TITLE": "Total Partial Least Square Regression and its Application in Quantitative Analysis",
+    "AB_CONTENT": "Partial least squares (PLS) is one of the commonly used methods in chemometrics. The orthogonal signal correction (OSC) method is proposed to enhance the prediction accuracy of PLS by removing components orthogonal to the response. Orthogonal constraints are stringent; thus, higher prediction accuracy might not be attained following such correction. A superior approach involves adaptively learning an increment of the prediction matrix and utilizing this increment to counter perturbations in the prediction matrix, subsequently enhancing the model&apos;s prediction accuracy. To address the above issues, this paper presents algorithms for TPLS and TPLSE, along with an analysis of their time complexity, convergence properties, and algorithmic bounds. We search for matrices ΔX and ΔY to counter perturbations in the predictor X and response Y. Finally, we validated our models and algorithms using four datasets, and experimental results showed that our proposed model is effective.",
+    "AB_KEYWORDS": "Partial least squares, Regression, Quantitative Analysis"
+}

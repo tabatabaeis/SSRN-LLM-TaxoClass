@@ -1,0 +1,126 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "PSN: Foreign Direct Investment (Development) (Topic)",
+            "path": "Political Economy - Development: International Development Efforts & Strategies eJournal"
+        },
+        {
+            "label": "ERPN: Securities Law & Public Offerings (Sub-Topic)",
+            "path": "ERPN: Regulation (Topic)"
+        },
+        {
+            "label": "PSN: Multi-National Corporations (MNCs) (International) (Topic)",
+            "path": "International Political Economy: Investment & Finance eJournal"
+        },
+        {
+            "label": "ERPN: Ownership (Sub-Topic)",
+            "path": "ERPN: Governance (Management) (Topic)"
+        },
+        {
+            "label": "ERPN: Angel Investing (Sub-Topic)",
+            "path": "ERPN: Investors (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Comparative Political Institutions & Development (Topic)",
+            "path": "Political Economy - Development: Political Institutions eJournal"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "CGN: Activist Hedge Funds (Sub-Topic)",
+            "path": "CGN: Shareholders in Corporate Governance (Topic)"
+        },
+        {
+            "label": "CGN: Politics & the Political Process (Topic)",
+            "path": "Corporate Governance: Social Responsibility & Social Impact eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Multi-National Corporations (MNCs) (International) (Topic)",
+            "path": "International Political Economy: Investment & Finance eJournal"
+        },
+        {
+            "label": "ERPN: Political Systems (Sub-Topic)",
+            "path": "ERPN: Societies (Topic)"
+        },
+        {
+            "label": "CGN: Political Contributions & Lobbying by Firms (Topic)",
+            "path": "Corporate Governance: Internal Governance, Organization & Processes eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "ERPN: Initial Public Offerings (IPOs) (Sub-Topic)",
+            "path": "ERPN: Exits (Topic)"
+        },
+        {
+            "label": "ERPN: Political Systems (Sub-Topic)",
+            "path": "ERPN: Societies (Topic)"
+        },
+        {
+            "label": "CGN: Political Contributions & Lobbying by Firms (Topic)",
+            "path": "Corporate Governance: Internal Governance, Organization & Processes eJournal"
+        },
+        {
+            "label": "CGN: Politics & the Political Process (Topic)",
+            "path": "Corporate Governance: Social Responsibility & Social Impact eJournal"
+        },
+        {
+            "label": "CGN: China (Topic)",
+            "path": "Corporate Governance: International/Non-US eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "PSN: Social Choice & Welfare (Topic)",
+            "path": "Games & Political Behavior eJournal"
+        },
+        {
+            "label": "PSN: Multi-National Corporations (MNCs) (International) (Topic)",
+            "path": "International Political Economy: Investment & Finance eJournal"
+        },
+        {
+            "label": "PSN: Local Politics & Policy (Topic)",
+            "path": "Political Institutions: Federalism & Sub-National Politics eJournal"
+        },
+        {
+            "label": "ERN: Models of Political Processes: Rent-Seeking, Elections, Legislatures, & Voting Behavior (Topic)",
+            "path": "Public Choice: Analysis of Collective Decision-Making eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "PSN: Public Choice (Topic)",
+            "path": "Games & Political Behavior eJournal"
+        },
+        {
+            "label": "ERPN: Political Systems (Sub-Topic)",
+            "path": "ERPN: Societies (Topic)"
+        },
+        {
+            "label": "PSN: Foreign Direct Investment (International) (Topic)",
+            "path": "International Political Economy: Investment & Finance eJournal"
+        },
+        {
+            "label": "PSN: Econometrics, Polimetrics, & Statistics (Topic)",
+            "path": "Political Methods: Quantitative Methods eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "1",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "1"
+}

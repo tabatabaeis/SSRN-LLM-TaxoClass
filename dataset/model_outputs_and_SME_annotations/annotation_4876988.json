@@ -1,0 +1,134 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Capital Markets: Market Microstructure eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "ERN: Behavioral Finance (Microeconomics) (Topic)",
+            "path": "Microeconomics: General Equilibrium & Disequilibrium Models of Financial Markets eJournal"
+        },
+        {
+            "label": "Capital Markets: Market Efficiency eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "ERN: Econometric Studies of Financial Markets & Global Regulatory Institutions (Topic)",
+            "path": "Econometric Modeling: Financial Markets Regulation eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Behavioral & Experimental Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Capital Markets: Market Microstructure eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Information Asymmetry Models (Topic)",
+            "path": "Microeconomics: Asymmetric & Private Information eJournal"
+        },
+        {
+            "label": "ERN: Behavioral Finance (Microeconomics) (Topic)",
+            "path": "Microeconomics: General Equilibrium & Disequilibrium Models of Financial Markets eJournal"
+        },
+        {
+            "label": "ERN: Speculation in Economic Markets (Topic)",
+            "path": "Microeconomics: Search; Learning; Information Costs & Specific Knowledge; Expectation & Speculation eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Capital Markets: Market Microstructure eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "ERN: Behavioral Finance (Microeconomics) (Topic)",
+            "path": "Microeconomics: General Equilibrium & Disequilibrium Models of Financial Markets eJournal"
+        },
+        {
+            "label": "Behavioral & Experimental Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Capital Markets: Market Efficiency eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Capital Markets: Market Microstructure eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Behavioral & Experimental Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Capital Markets: Market Efficiency eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "ERN: Efficient Market Hypothesis Models (Topic)",
+            "path": "Microeconomics: General Equilibrium & Disequilibrium Models of Financial Markets eJournal"
+        },
+        {
+            "label": "ERN: Speculation in Economic Markets (Topic)",
+            "path": "Microeconomics: Search; Learning; Information Costs & Specific Knowledge; Expectation & Speculation eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "MKTG: Consumer Information Processing (e.g., perception, learning, satisfaction) (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        },
+        {
+            "label": "ERN: Cooperation & Collusion (Topic)",
+            "path": "IO: Theory eJournal"
+        },
+        {
+            "label": "ORG: Illegitimate Power (Topic)",
+            "path": "Power, Politics, & Organizational Behavior eJournal"
+        },
+        {
+            "label": "POL: Global Economic Markets (Topic)",
+            "path": "Strategy & Macroeconomic Policy eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ERN: Behavioral Finance (Microeconomics) (Topic)",
+            "path": "Microeconomics: General Equilibrium & Disequilibrium Models of Financial Markets eJournal"
+        },
+        {
+            "label": "Capital Markets: Market Microstructure eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Capital Markets: Market Efficiency eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "PSN: Markets & Investment (Topic)",
+            "path": "Comparative Political Economy: Regulation eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

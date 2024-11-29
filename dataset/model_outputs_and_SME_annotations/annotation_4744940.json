@@ -1,0 +1,158 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Urban Research eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "PSN: Migration (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "PSN: Environmental Migration (Topic)",
+            "path": "International Political Economy: Migration eJournal"
+        },
+        {
+            "label": "PSN: Urbanization & Urban Development (Topic)",
+            "path": "Political Economy - Development: Domestic Development Strategies eJournal"
+        },
+        {
+            "label": "Geography of Human Settlements, Populations & Movements eJournal",
+            "path": "Geography Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Sustainable Transport eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Urban & Regional Resilience eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Urban Research eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Urban Transportation eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Transportation Planning & Policy eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Transportation, Geography & the Spatial Structure eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Environment & Human Health eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Urban Research eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "PSN: Urbanization & Urban Development (Topic)",
+            "path": "Political Economy - Development: Domestic Development Strategies eJournal"
+        },
+        {
+            "label": "Urban Transportation eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Transportation Planning & Policy eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Geography of Human Settlements, Populations & Movements eJournal",
+            "path": "Geography Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Urban Research eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Urban Transportation eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Urbanism eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Transportation Planning & Policy eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Geography of Human Settlements, Populations & Movements eJournal",
+            "path": "Geography Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Urban Research eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Urban Transportation eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Geography of Human Settlements, Populations & Movements eJournal",
+            "path": "Geography Research Network"
+        },
+        {
+            "label": "Urbanism eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Sustainable Transport eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Urban Research eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "ERN: Urban Development & Developing Countries (Topic)",
+            "path": "Urban Economics & Regional Studies eJournal"
+        },
+        {
+            "label": "PSN: Sustainable Development (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "Urban Transportation eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Sustainable Transport eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

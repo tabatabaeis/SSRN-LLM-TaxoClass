@@ -1,0 +1,150 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "ERN: Agriculture (Topic)",
+            "path": "European Economics: Agriculture, Natural Resources & Environmental Studies eJournal"
+        },
+        {
+            "label": "PSN: Global Warming & Climate Change (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "WGSRN: Agriculture, Livelihoods & Gender (Sub-Topic)",
+            "path": "WGSRN: Gender & Development (Topic)"
+        },
+        {
+            "label": "IRPN: Innovation & Agricultural Economics (Topic)",
+            "path": "Economics of Innovation eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Food Industry eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Food Politics & Sociology eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Water Sustainability eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Agricultural Economics eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agricultural Sustainability & Security eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agricultural Technology & Engineering eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "ERN: Agriculture (Topic)",
+            "path": "European Economics: Agriculture, Natural Resources & Environmental Studies eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Agricultural Sustainability & Security eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agricultural Economics eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agricultural & Natural Resource Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "PSN: Rural & Agricultural Development (Topic)",
+            "path": "Political Economy - Development: Domestic Development Strategies eJournal"
+        },
+        {
+            "label": "PSN: Sustainable Development (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Agricultural Sustainability & Security eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agricultural Economics eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agricultural & Natural Resource Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Agronomy & Soil Science eJournal",
+            "path": "Agricultural Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Agricultural Sustainability & Security eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Environmental Science & Climate Change eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Agricultural Economics eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agronomy & Soil Science eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agricultural & Natural Resource Economics eJournal",
+            "path": "Economics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Gender, Vulnerability, Adaptation & Resilience (Sub-Topic)",
+            "path": "WGSRN: Extreme Events & Climate Change (Topic)"
+        },
+        {
+            "label": "ERN: Agricultural Economics (Topic)",
+            "path": "Econometric Modeling: Agriculture, Natural Resources & Environmental Economics eJournal"
+        },
+        {
+            "label": "Agricultural Sustainability & Security eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agricultural Law & Policy eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agronomy & Soil Science eJournal",
+            "path": "Agricultural Science Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

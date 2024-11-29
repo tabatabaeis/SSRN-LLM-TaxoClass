@@ -1,0 +1,86 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "WGSRN: Critical Feminist Theory, Post-Modernism & Post-Colonial Studies (Sub-Topic)",
+            "path": "WGSRN: Feminist Philosophy (Topic)"
+        },
+        {
+            "label": "WGSRN: Women, Status & Power (Topic)",
+            "path": "Women, History & Culture eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Critical Feminist Theory, Post-Modernism & Post-Colonial Studies (Sub-Topic)",
+            "path": "WGSRN: Feminist Philosophy (Topic)"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Feminist Theory & Philosophy eJournal",
+            "path": "Womens & Gender Studies Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Feminist Anthropological & Cultural Studies (Topic)",
+            "path": "Women, History & Culture eJournal"
+        },
+        {
+            "label": "WGSRN: Critical Feminist Theory, Post-Modernism & Post-Colonial Studies (Sub-Topic)",
+            "path": "WGSRN: Feminist Philosophy (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Critical Feminist Theory, Post-Modernism & Post-Colonial Studies (Sub-Topic)",
+            "path": "WGSRN: Feminist Philosophy (Topic)"
+        },
+        {
+            "label": "WGSRN: Feminist Anthropological & Cultural Studies (Topic)",
+            "path": "Women, History & Culture eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Critical Feminist Theory, Post-Modernism & Post-Colonial Studies (Sub-Topic)",
+            "path": "WGSRN: Feminist Philosophy (Topic)"
+        },
+        {
+            "label": "WGSRN: Feminist Anthropological & Cultural Studies (Topic)",
+            "path": "Women, History & Culture eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: National Law, Indigenous Women's Rights & Movements (Sub-Topic)",
+            "path": "WGSRN: Gender & Development (Topic)"
+        },
+        {
+            "label": "Women, Gender & Literature eJournal",
+            "path": "Literature Research Network"
+        },
+        {
+            "label": "WGSRN: Women, Status & Power (Topic)",
+            "path": "Women, History & Culture eJournal"
+        },
+        {
+            "label": "WGSRN: Gender & Institutions (Sub-Topic)",
+            "path": "WGSRN: Feminist Theory (Topic)"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

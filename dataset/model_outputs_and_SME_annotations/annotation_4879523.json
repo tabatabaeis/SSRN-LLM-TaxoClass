@@ -1,0 +1,118 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Smart Contracts & Legal Aspects of Blockchain eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "IRPN: Innovation & International Intellectual Property Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Intellectual Property Law & Policy (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Contracts & Commercial Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Intellectual Property: Copyright Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Cyberspace Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Smart Contracts & Legal Aspects of Blockchain eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Smart Contracts & Legal Aspects of Blockchain eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "IRPN: Innovation & Cyberlaw & Policy (Topic)",
+            "path": "Innovation Law & Policy eJournal"
+        },
+        {
+            "label": "International Economic Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Cyberspace Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Smart Contracts & Legal Aspects of Blockchain eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "International Economic Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Cyberspace Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "IRPN: Innovation & International Intellectual Property Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Intellectual Property Law & Policy (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "IRPN: Innovation & International Intellectual Property Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Intellectual Property Law & Policy (Topic)"
+        },
+        {
+            "label": "Intellectual Property: Patent Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Intellectual Property eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Cyberspace Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "International Economic Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Smart Contracts & Legal Aspects of Blockchain eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "IRPN: Innovation & Securities Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Regulatory Law & Policy (Topic)"
+        },
+        {
+            "label": "Emerging Legal Issues in Information Systems eJournal",
+            "path": "Information Systems & eBusiness Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "4"
+}

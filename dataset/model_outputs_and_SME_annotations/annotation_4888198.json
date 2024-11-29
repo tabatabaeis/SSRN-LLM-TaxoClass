@@ -1,0 +1,138 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "LingRN: Languages of Africa (Topic)",
+            "path": "Regional Languages eJournal"
+        },
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Linguistic Anthropology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "WGSRN: Gender, Language, Culture & Networks (Topic)",
+            "path": "Women, History & Culture eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "African & African Diaspora History eJournal",
+            "path": "History Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Linguistic Anthropology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Sociolinguistics, Language Variation & Discourse Analysis eJournal",
+            "path": "Linguistics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "LingRN: Languages of Africa (Topic)",
+            "path": "Regional Languages eJournal"
+        },
+        {
+            "label": "Sociolinguistics, Language Variation & Discourse Analysis eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Linguistic Anthropology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "LingRN: Languages of Africa (Topic)",
+            "path": "Regional Languages eJournal"
+        },
+        {
+            "label": "Sociolinguistics, Language Variation & Discourse Analysis eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Linguistic Anthropology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "LingRN: Languages of Africa (Topic)",
+            "path": "Regional Languages eJournal"
+        },
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Sociolinguistics, Language Variation & Discourse Analysis eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Linguistic Anthropology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "Cultural Anthropology: History, Theory, Methods & Applications eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "History & Philosophy of Linguistics eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Communication & Identity eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "Mass Communication & Popular Culture eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "WGSRN: Gender, Language, Culture & Networks (Topic)",
+            "path": "Women, History & Culture eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

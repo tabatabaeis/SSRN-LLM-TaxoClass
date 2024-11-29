@@ -1,0 +1,142 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Logic & Philosophy of Mathematics eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Geometry eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Number Theory eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "History & Philosophy of Mathematics eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Cognition in Mathematics, Science, & Technology eJournal",
+            "path": "Cognitive Science Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Nuclear & Particle Physics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "History & Philosophy of Physics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Physics Negative Results eJournal",
+            "path": "Physics Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Logic eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Number Theory eJournal",
+            "path": "Mathematics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Number Theory eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "History & Philosophy of Mathematics eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Ancient Greek & Roman Philosophy & Science eJournal",
+            "path": "Classics Research Network"
+        },
+        {
+            "label": "Geometry eJournal",
+            "path": "Mathematics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Number Theory eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "History & Philosophy of Mathematics eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Logic & Philosophy of Mathematics eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Cognition in Mathematics, Science, & Technology eJournal",
+            "path": "Cognitive Science Network"
+        },
+        {
+            "label": "Discrete Mathematics & Combinatorics eJournal",
+            "path": "Mathematics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Number Theory eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "History & Philosophy of Mathematics eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Ancient Greek & Roman Philosophy & Science eJournal",
+            "path": "Classics Research Network"
+        },
+        {
+            "label": "Geometry eJournal",
+            "path": "Mathematics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Number Theory eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Ancient Greek & Roman Philosophy & Science eJournal",
+            "path": "Classics Research Network"
+        },
+        {
+            "label": "Ancient Greek & Roman Literature eJournal",
+            "path": "Classics Research Network"
+        },
+        {
+            "label": "History & Philosophy of Mathematics eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Theoretical Computer Science eJournal",
+            "path": "Mathematics Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

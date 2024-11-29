@@ -1,0 +1,118 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Food Chemistry eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "Food Engineering eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "Food Product Development & Processing eJournal",
+            "path": "Food Science Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Computational Materials Science eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Materials for Energy eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Materials Performance eJournal",
+            "path": "Materials Science Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Food Chemistry eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "Food Microbiology eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "Food Product Development & Processing eJournal",
+            "path": "Food Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Food Chemistry eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "Food Product Development & Processing eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "Food Microbiology eJournal",
+            "path": "Food Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Food Chemistry eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "Food Product Development & Processing eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "Food Microbiology eJournal",
+            "path": "Food Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Food Chemistry eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "Food Microbiology eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "Agricultural Food Science & Food Groups eJournal",
+            "path": "Food Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Food Quality, Safety, Regulation & Policy eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "Food Science Education eJournal",
+            "path": "Food Science Research Network"
+        },
+        {
+            "label": "IRPN: Innovation & Food & Drug Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Regulatory Law & Policy (Topic)"
+        },
+        {
+            "label": "Agricultural Food Science & Food Groups eJournal",
+            "path": "Food Science Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

@@ -1,0 +1,130 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "PsychRN: Speech & Language (Topic)",
+            "path": "Cognitive Psychology eJournal"
+        },
+        {
+            "label": "Linguistics Education, Language Teaching & Language Acquisition eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Legal, Medical & Applied Linguistics eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Cognitive Linguistics: Cognition, Language, Gesture eJournal",
+            "path": "Cognitive Science Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Cognitive Neuroscience eJournal",
+            "path": "Cognitive Science Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Morphology, Semantics & Syntax eJournal",
+            "path": "Linguistics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PsychRN: Speech & Language (Topic)",
+            "path": "Cognitive Psychology eJournal"
+        },
+        {
+            "label": "Speech & Language Pathology eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Psycholinguistics & Neurolinguistics eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "PsychRN: Communication Disorders (Sub-Topic)",
+            "path": "PsychRN: Neurodevelopmental & Learning Disorders (Topic)"
+        },
+        {
+            "label": "Morphology, Semantics & Syntax eJournal",
+            "path": "Linguistics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "PsychRN: Speech & Language (Topic)",
+            "path": "Cognitive Psychology eJournal"
+        },
+        {
+            "label": "Speech & Language Pathology eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Cognitive Linguistics: Cognition, Language, Gesture eJournal",
+            "path": "Cognitive Science Network"
+        },
+        {
+            "label": "Psycholinguistics & Neurolinguistics eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Linguistics Education, Language Teaching & Language Acquisition eJournal",
+            "path": "Linguistics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Psycholinguistics & Neurolinguistics eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Speech & Language Pathology eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "PsychRN: Communication Disorders (Sub-Topic)",
+            "path": "PsychRN: Neurodevelopmental & Learning Disorders (Topic)"
+        },
+        {
+            "label": "Sociolinguistics, Language Variation & Discourse Analysis eJournal",
+            "path": "Linguistics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Interpersonal Communication eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "PsychRN: Communication Disorders (Sub-Topic)",
+            "path": "PsychRN: Neurodevelopmental & Learning Disorders (Topic)"
+        },
+        {
+            "label": "PsychRN: Speech & Language (Topic)",
+            "path": "Cognitive Psychology eJournal"
+        },
+        {
+            "label": "Communication Across the Lifespan eJournal",
+            "path": "Communication Studies Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

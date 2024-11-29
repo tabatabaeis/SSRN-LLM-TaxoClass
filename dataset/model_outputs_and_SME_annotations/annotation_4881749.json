@@ -1,0 +1,122 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Artificial Intelligence - Role & Applications in Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "MKTG: Affect & Emotion (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        },
+        {
+            "label": "Generative AI eJournal",
+            "path": "Information & Library Science Research Network"
+        },
+        {
+            "label": "Robotics eJournal",
+            "path": "Computer Science Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Human-Computer Interaction eJournal",
+            "path": "Computer Science Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Data Science, Data Analytics & Informatics eJournal",
+            "path": "Information & Library Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Applied Computing eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Human-Computer Interaction eJournal",
+            "path": "Computer Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "PsychRN: Sensation & Perception (Topic)",
+            "path": "Cognitive Psychology eJournal"
+        },
+        {
+            "label": "Computational Neuroscience & Artificial Neural Networks eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Data Science, Data Analytics & Informatics eJournal",
+            "path": "Information & Library Science Research Network"
+        },
+        {
+            "label": "Artificial Intelligence - Law, Policy, & Ethics eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Music Theory, Practices & Repertoires eJournal",
+            "path": "Music Research & Composition Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Music Education eJournal",
+            "path": "Music Research & Composition Network"
+        },
+        {
+            "label": "Human-Computer Interaction eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Robotics eJournal",
+            "path": "Computer Science Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

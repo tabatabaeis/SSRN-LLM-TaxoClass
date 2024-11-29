@@ -1,0 +1,94 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "PSN: Field Experiments (Topic)",
+            "path": "Political Methods: Experiments & Experimental Design eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Political Science Negative Results eJournal",
+            "path": "Political Science Network"
+        },
+        {
+            "label": "PSN: Voters & Elections (Topic)",
+            "path": "Political Behavior: Voting & Public Opinion eJournal"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Game Theory (Topic)",
+            "path": "Games & Political Behavior eJournal"
+        },
+        {
+            "label": "PSN: Democratic Theory (Topic)",
+            "path": "Political Theory: Political Philosophy eJournal"
+        },
+        {
+            "label": "PSN: Field Experiments (Topic)",
+            "path": "Political Methods: Experiments & Experimental Design eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Field Experiments (Topic)",
+            "path": "Political Methods: Experiments & Experimental Design eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "PSN: Laboratory Experiments (Topic)",
+            "path": "Political Methods: Experiments & Experimental Design eJournal"
+        },
+        {
+            "label": "PSN: Voters & Elections (Topic)",
+            "path": "Political Behavior: Voting & Public Opinion eJournal"
+        },
+        {
+            "label": "PSN: Econometrics, Polimetrics, & Statistics (Topic)",
+            "path": "Political Methods: Quantitative Methods eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "PSN: Politics of Autocratic Regimes (Topic)",
+            "path": "Political Institutions: Non-Democratic Regimes eJournal"
+        },
+        {
+            "label": "PSN: Democratic Theory (Topic)",
+            "path": "Political Theory: Political Philosophy eJournal"
+        },
+        {
+            "label": "PSN: Political Psychology (Topic)",
+            "path": "Political Behavior: Cognition, Psychology, & Behavior eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "PSN: Electoral Violence (Topic)",
+            "path": "Conflict Studies: Intra-State Conflict eJournal"
+        },
+        {
+            "label": "PSN: Field Experiments (Topic)",
+            "path": "Political Methods: Experiments & Experimental Design eJournal"
+        },
+        {
+            "label": "PSN: Survey Methods & Measures (Topic)",
+            "path": "Political Behavior: Voting & Public Opinion eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

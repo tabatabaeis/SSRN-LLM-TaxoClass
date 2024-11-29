@@ -1,0 +1,142 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Politics & Governance of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Global Health Organizations & Partnerships eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Public Health Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Environment & Human Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Global Health Organizations & Partnerships eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Politics & Governance of Public Health eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Politics & Energy eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Social & Political Philosophy eJournal",
+            "path": "Philosophy Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Politics & Governance of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "PSN: Environment (Topic)",
+            "path": "Comparative Political Economy: Regulation eJournal"
+        },
+        {
+            "label": "PSN: Environmental Networks (Topic)",
+            "path": "International Institutions: Transnational Networks eJournal"
+        },
+        {
+            "label": "PSN: Environmental Regulation (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Politics & Governance of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "PSN: Sustainable Development (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "PSN: Environment (Topic)",
+            "path": "Comparative Political Economy: Regulation eJournal"
+        },
+        {
+            "label": "PSN: Global Social Movements (Topic)",
+            "path": "International Institutions: Transnational Networks eJournal"
+        },
+        {
+            "label": "Decision-Making in Public Policy & the Social Good eJournal",
+            "path": "Decision Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Politics & Governance of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "PSN: Environment (Topic)",
+            "path": "Comparative Political Economy: Regulation eJournal"
+        },
+        {
+            "label": "PSN: Environmental Networks (Topic)",
+            "path": "International Institutions: Transnational Networks eJournal"
+        },
+        {
+            "label": "PSN: Sustainable Development (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "Environment & Public Health eJournal",
+            "path": "Environmental Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "PSN: Public Policy (Topic)",
+            "path": "Political Institutions: Bureaucracies & Public Administration eJournal"
+        },
+        {
+            "label": "PSN: Global Social Movements (Topic)",
+            "path": "International Institutions: Transnational Networks eJournal"
+        },
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Global Health Organizations & Partnerships eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "CGN: Politics & the Political Process (Topic)",
+            "path": "Corporate Governance: Social Responsibility & Social Impact eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

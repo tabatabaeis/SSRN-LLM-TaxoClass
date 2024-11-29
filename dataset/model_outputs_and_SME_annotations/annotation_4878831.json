@@ -1,0 +1,142 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Artificial Intelligence - Role & Applications in Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Artificial Intelligence - Law, Policy, & Ethics eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Positive Political Theory eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Neurolaw & Neuroethics eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence - Law, Policy, & Ethics eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Artificial Intelligence - Role & Applications in Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Legal History eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Artificial Intelligence - Law, Policy, & Ethics eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Artificial Intelligence - Law, Policy, & Ethics eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Artificial Intelligence - Role & Applications in Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Philosophy of Law eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Jurisprudence & Legal Philosophy eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Artificial Intelligence - Law, Policy, & Ethics eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Artificial Intelligence - Role & Applications in Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law, Brain & Behavior eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PRN: Normative Ethics, Metaethics & Moral Psychology (Topic)",
+            "path": "Ethics eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence - Role & Applications in Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Artificial Intelligence - Law, Policy, & Ethics eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Philosophy of Law eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Jurisprudence & Legal Philosophy eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Law & Positive Political Theory eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Economics eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Philosophy of Action eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Artificial Intelligence - Role & Applications in Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PsychRN: Thinking, Reasoning & Decision Making (Topic)",
+            "path": "Cognitive Psychology eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

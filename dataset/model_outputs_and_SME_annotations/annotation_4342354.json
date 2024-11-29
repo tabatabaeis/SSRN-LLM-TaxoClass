@@ -1,0 +1,142 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Insurance Law, Legislation, & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "SIRN: Pension Coverage (Sub-Topic)",
+            "path": "SIRN: Employment-Based Pensions (Topic)"
+        },
+        {
+            "label": "SIRN: Rates of Coverage (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Behavioral Economics (Topic)",
+            "path": "Behavioral & Experimental Economics eJournal"
+        },
+        {
+            "label": "Economic Growth eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Economic History eJournal",
+            "path": "Economics Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "CGN: Insurance Companies (Topic)",
+            "path": "Corporate Governance: Governance of Special Types of Firms eJournal"
+        },
+        {
+            "label": "Banking & Insurance eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        },
+        {
+            "label": "Insurance Law, Legislation, & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "SIRN: Social Security (Topic)",
+            "path": "Social Security, Pensions & Retirement Income eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Property, Casualty & Life Insurance eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        },
+        {
+            "label": "MKTG: Customer Service (Topic)",
+            "path": "Managerial Marketing eJournal"
+        },
+        {
+            "label": "Banking & Insurance eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        },
+        {
+            "label": "Risk Management eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Insurance Law, Legislation, & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "CGN: Insurance Companies (Topic)",
+            "path": "Corporate Governance: Governance of Special Types of Firms eJournal"
+        },
+        {
+            "label": "Property, Casualty & Life Insurance eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        },
+        {
+            "label": "MKTG: Customer Service (Topic)",
+            "path": "Managerial Marketing eJournal"
+        },
+        {
+            "label": "Household Finance eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Social Security (Elderly) (Sub-Topic)",
+            "path": "SIRN: Low Income Elderly (Topic)"
+        },
+        {
+            "label": "SIRN: Historical Trends (Sub-Topic)",
+            "path": "SIRN: Retirement Income (Topic)"
+        },
+        {
+            "label": "SIRN: Rates of Coverage (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "Risk Management eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Household Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "MKTG: Customer Relationship Management (Topic)",
+            "path": "Managerial Marketing eJournal"
+        },
+        {
+            "label": "Risk Management eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "MKTG: Consumer Information Processing (e.g., perception, learning, satisfaction) (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        },
+        {
+            "label": "Financial Literacy eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "4"
+}

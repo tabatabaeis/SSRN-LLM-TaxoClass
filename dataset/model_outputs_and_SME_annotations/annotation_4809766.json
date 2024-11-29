@@ -1,0 +1,154 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Neuropharmacology & Neurotoxicology eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Pharmaceutical Science Education eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Protein & Peptide Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        },
+        {
+            "label": "Pharmaceutical Business & Regulatory Environment eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Neural Pathways, Neural Circuits & Seizure Disorders eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Neuroimmunology, Neuroinflammation & Neuroinfections eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Enteric Neurobiology & Gut-Brain Axis eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neurodegenerative Disorders, Cognitive Dementias & Neurotrauma eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Mechanisms of Neurodegeneration, Neuroregeneration & Neuroprotection eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neural Gene Expression & Neurogenetic Disorders eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Pharmacology eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Pharmaceutical & Medicinal Chemistry eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Pharmaceutics & Drug Discovery eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Pharmacology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Neural Gene Expression & Neurogenetic Disorders eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neurobiology eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Neuropharmacology & Neurotoxicology eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Pharmacology & Toxicology eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Neural Gene Expression & Neurogenetic Disorders eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neurobiology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biochemistry eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Neuropharmacology & Neurotoxicology eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Mechanisms of Neurodegeneration, Neuroregeneration & Neuroprotection eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neurodegenerative Disorders, Cognitive Dementias & Neurotrauma eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Pharmacology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Pharmaceutical & Medicinal Chemistry eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Organic Chemistry eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Pharmacology & Toxicology eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Computational & Theoretical Chemistry eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Neural Gene Expression & Neurogenetic Disorders eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Biochemistry eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

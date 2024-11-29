@@ -1,0 +1,110 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "ORG: Institutional Power (Topic)",
+            "path": "Power, Politics, & Organizational Behavior eJournal"
+        },
+        {
+            "label": "Compliance & Risk Management eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "History, Ethics & Philosophy of Communication eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "ERN: Institutions & Corruption (Topic)",
+            "path": "Institutions & Transition Economics: Political Economy eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Educational Psychology & Cognition eJournal",
+            "path": "Education Research Network"
+        },
+        {
+            "label": "EduRN: Higher Education (Topic)",
+            "path": "Pedagogy eJournal"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Information & Library Science Research Network",
+            "path": "Social Sciences"
+        },
+        {
+            "label": "Crime & Psychology eJournal",
+            "path": "Criminal Justice Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "POL: Moral & Ethical Practices (Topic)",
+            "path": "Strategy & Social Policies eJournal"
+        },
+        {
+            "label": "ORG: Ethics & Power (Topic)",
+            "path": "Power, Politics, & Organizational Behavior eJournal"
+        },
+        {
+            "label": "ORG: Ethics in Decision Making (Topic)",
+            "path": "Decision Making, Organizational Behavior & Performance eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "ORG: Institutional Power (Topic)",
+            "path": "Power, Politics, & Organizational Behavior eJournal"
+        },
+        {
+            "label": "ERN: Institutions & Corruption (Topic)",
+            "path": "Institutions & Transition Economics: Political Economy eJournal"
+        },
+        {
+            "label": "POL: Moral & Ethical Practices (Topic)",
+            "path": "Strategy & Social Policies eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "ERPN: Contract Enforcement (Sub-Topic)",
+            "path": "ERPN: Contracts (Topic)"
+        },
+        {
+            "label": "POL: Moral & Ethical Practices (Topic)",
+            "path": "Strategy & Social Policies eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ORG: Contemporary Leadership Models (Topic)",
+            "path": "Leadership & Organizational Behavior eJournal"
+        },
+        {
+            "label": "PRN: Normative Ethics, Metaethics & Moral Psychology (Topic)",
+            "path": "Ethics eJournal"
+        },
+        {
+            "label": "POL: Integrity Practices (Topic)",
+            "path": "Strategy & Social Policies eJournal"
+        },
+        {
+            "label": "ORG: Ethics in Decision Making (Topic)",
+            "path": "Decision Making, Organizational Behavior & Performance eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "1"
+}

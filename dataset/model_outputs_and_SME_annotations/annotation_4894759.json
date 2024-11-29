@@ -1,0 +1,134 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Public International Law: Organizations eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Security & Safety (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        },
+        {
+            "label": "Comparative & Global Administrative Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Criminal Procedure eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "State & Local Government eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "State & Local Government eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Local Politics & Policy (Topic)",
+            "path": "Political Institutions: Federalism & Sub-National Politics eJournal"
+        },
+        {
+            "label": "State & Local Government eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law Enforcement eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Security & Safety (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "State & Local Government eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Local Politics & Policy (Topic)",
+            "path": "Political Institutions: Federalism & Sub-National Politics eJournal"
+        },
+        {
+            "label": "Law Enforcement eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "PSN: Security & Safety (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        },
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "State & Local Government eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Local Politics & Policy (Topic)",
+            "path": "Political Institutions: Federalism & Sub-National Politics eJournal"
+        },
+        {
+            "label": "Law Enforcement eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Comparative & Global Administrative Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "National Security & Foreign Relations Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Public International Law: Courts & Adjudication eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "European Public Law: EU eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Criminal Justice Education eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Criminal Procedure eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Public Administration (Development) (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

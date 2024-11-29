@@ -1,0 +1,130 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "CGN: Enforcement by Public Regulators (Sub-Topic)",
+            "path": "CGN: Enforcement & Litigation (Topic)"
+        },
+        {
+            "label": "CGN: Corporate Borrowing, Capital Structure Choices, & Leasing (Topic)",
+            "path": "Corporate Governance: Capital Raising, Investments, Distributions & Market Trading eJournal"
+        },
+        {
+            "label": "ERPN: Leveraged Buyouts (Sub-Topic)",
+            "path": "ERPN: Investors (Topic)"
+        },
+        {
+            "label": "ERPN: Contract Enforcement (Sub-Topic)",
+            "path": "ERPN: Contracts (Topic)"
+        },
+        {
+            "label": "Corporate & Financial Law: Interdisciplinary Approaches eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Corporate Governance & Law eJournal",
+            "path": "Corporate Governance Network"
+        },
+        {
+            "label": "Corporate Governance & Accounting eJournal",
+            "path": "Corporate Governance Network"
+        },
+        {
+            "label": "Corporate Governance & Economics eJournal",
+            "path": "Corporate Governance Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Bankruptcy, Reorganization & Creditors eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Financial Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "CGN: Insolvency & Reorganization Law (Sub-Topic)",
+            "path": "CGN: Governance Law & Arrangements by Subject Matter (Topic)"
+        },
+        {
+            "label": "CGN: Creditors in Corporate Governance (Topic)",
+            "path": "Corporate Governance: Actors & Players eJournal"
+        },
+        {
+            "label": "CGN: India (Topic)",
+            "path": "Corporate Governance: International/Non-US eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "CGN: Insolvency & Reorganization Law (Sub-Topic)",
+            "path": "CGN: Governance Law & Arrangements by Subject Matter (Topic)"
+        },
+        {
+            "label": "CGN: Bankruptcy & Reorganization Practice (Sub-Topic)",
+            "path": "CGN: Legal Practice (Topic)"
+        },
+        {
+            "label": "CGN: India (Topic)",
+            "path": "Corporate Governance: International/Non-US eJournal"
+        },
+        {
+            "label": "Bankruptcy, Reorganization & Creditors eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "CGN: Insolvency & Reorganization Law (Sub-Topic)",
+            "path": "CGN: Governance Law & Arrangements by Subject Matter (Topic)"
+        },
+        {
+            "label": "CGN: Bankruptcy & Reorganization Practice (Sub-Topic)",
+            "path": "CGN: Legal Practice (Topic)"
+        },
+        {
+            "label": "CGN: Creditors in Corporate Governance (Topic)",
+            "path": "Corporate Governance: Actors & Players eJournal"
+        },
+        {
+            "label": "Bankruptcy, Reorganization & Creditors eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "CGN: Enforcement by Public Regulators (Sub-Topic)",
+            "path": "CGN: Enforcement & Litigation (Topic)"
+        },
+        {
+            "label": "CGN: Corporate Law Practice (Sub-Topic)",
+            "path": "CGN: Legal Practice (Topic)"
+        },
+        {
+            "label": "ERPN: Partnership & LLC Law (Sub-Topic)",
+            "path": "ERPN: Corporate Law & Organization Law (Topic)"
+        },
+        {
+            "label": "CGN: India (Topic)",
+            "path": "Corporate Governance: International/Non-US eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

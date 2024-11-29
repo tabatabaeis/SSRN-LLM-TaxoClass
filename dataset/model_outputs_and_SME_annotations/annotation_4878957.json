@@ -1,0 +1,130 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "ERPN: Finance (Innovation) (Sub-Topic)",
+            "path": "ERPN: Social Innovation (Sub-Topic)"
+        },
+        {
+            "label": "ERPN: Start-Up & Small Business Finance (Sub-Topic)",
+            "path": "ERPN: Entrepreneurs (Finance) (Topic)"
+        },
+        {
+            "label": "ERPN: Securities Law & Public Offerings (Sub-Topic)",
+            "path": "ERPN: Regulation (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Banking & Insurance eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        },
+        {
+            "label": "Capital Markets: Market Efficiency eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Capital Markets: Market Microstructure eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Financial Institutions in Emerging Markets (Topic)",
+            "path": "Monetary Economics: Financial System & Institutions eJournal"
+        },
+        {
+            "label": "Cryptocurrency Research eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Technology & Investing eJournal",
+            "path": "Financial & Investment Planning Research Network"
+        },
+        {
+            "label": "Smart Contracts & Legal Aspects of Blockchain eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "ERPN: Finance (Innovation) (Sub-Topic)",
+            "path": "ERPN: Social Innovation (Sub-Topic)"
+        },
+        {
+            "label": "ERPN: Start-Up & Small Business Finance (Sub-Topic)",
+            "path": "ERPN: Entrepreneurs (Finance) (Topic)"
+        },
+        {
+            "label": "ERPN: International (Sub-Topic)",
+            "path": "ERPN: Public Policy (Innovation) (Topic)"
+        },
+        {
+            "label": "Technology & Investing eJournal",
+            "path": "Financial & Investment Planning Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "ERPN: Start-Up & Small Business Finance (Sub-Topic)",
+            "path": "ERPN: Entrepreneurs (Finance) (Topic)"
+        },
+        {
+            "label": "ERPN: Fair Trade (Sub-Topic)",
+            "path": "ERPN: Institutions/Organizations (Sub-Topic)"
+        },
+        {
+            "label": "ERPN: International (Sub-Topic)",
+            "path": "ERPN: Public Policy (Innovation) (Topic)"
+        },
+        {
+            "label": "IRPN: Innovation & International Economics (Topic)",
+            "path": "Economics of Innovation eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "ERPN: Finance (Innovation) (Sub-Topic)",
+            "path": "ERPN: Social Innovation (Sub-Topic)"
+        },
+        {
+            "label": "ERPN: Start-Up & Small Business Finance (Sub-Topic)",
+            "path": "ERPN: Entrepreneurs (Finance) (Topic)"
+        },
+        {
+            "label": "Technology & Investing eJournal",
+            "path": "Financial & Investment Planning Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ERPN: Internationalization (Market) (Sub-Topic)",
+            "path": "ERPN: Market Strategies (Topic)"
+        },
+        {
+            "label": "ERPN: Finance (Enterprise) (Sub-Topic)",
+            "path": "ERPN: Social Enterprise (Topic)"
+        },
+        {
+            "label": "IRPN: International Linkages (Sub-Topic)",
+            "path": "IRPN: Innovation Systems (Topic)"
+        },
+        {
+            "label": "IRPN: Innovation & International Economics (Topic)",
+            "path": "Economics of Innovation eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

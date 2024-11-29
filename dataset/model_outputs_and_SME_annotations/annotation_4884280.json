@@ -1,0 +1,122 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "PSN: Courts of Human Rights (Topic)",
+            "path": "International Institutions: Courts eJournal"
+        },
+        {
+            "label": "WGSRN: Abortion, Contraception, Pregnancy Planning (Sub-Topic)",
+            "path": "WGSRN: Reproductive Health (Topic)"
+        },
+        {
+            "label": "Law, Politics & the Media eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Rights & Liberties eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Separation of Powers & Federalism eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Reproductive Justice, Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Intellectual Property eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Philosophy of Law eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Social & Political Philosophy eJournal",
+            "path": "Philosophy Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "U.S. Constitutional Law: Rights & Liberties eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Family & Children's Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Interpretation & Judicial Review eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "U.S. Constitutional Law: Rights & Liberties eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Family & Children's Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Interpretation & Judicial Review eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Reproductive Justice, Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Rights & Liberties eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Family & Children's Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Philosophy of Law eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Law & Society: Family Law, Relations & Dispute Resolution eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Reproductive Justice, Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Discrimination, Law & Justice eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

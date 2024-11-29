@@ -1,0 +1,142 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "PSN: Infrastructure (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        },
+        {
+            "label": "Sustainability at Work eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Built Environment eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Occupational Health eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Electrical Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Energy Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Environmental Engineering eJournal",
+            "path": "Engineering Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Public Health Research Network",
+            "path": "Health Sciences"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Infrastructure (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        },
+        {
+            "label": "Sustainability at Work eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Environmental Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Built Environment eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Architecture Sciences eJournal",
+            "path": "Architecture Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "PSN: Infrastructure (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        },
+        {
+            "label": "Environmental Engineering & Technology eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Operations Management eJournal",
+            "path": "MRN Production & Operations Management Network"
+        },
+        {
+            "label": "Sustainability at Work eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Industrial & Manufacturing Engineering eJournal",
+            "path": "Engineering Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Operations Management eJournal",
+            "path": "MRN Production & Operations Management Network"
+        },
+        {
+            "label": "Facility Design eJournal",
+            "path": "MRN Production & Operations Management Network"
+        },
+        {
+            "label": "Environmental Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Sustainability at Work eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Industrial & Manufacturing Engineering eJournal",
+            "path": "Engineering Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Energy Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "ORG: Total Quality Management (Topic)",
+            "path": "Motivation, Influence & Organizational Behavior eJournal"
+        },
+        {
+            "label": "ORG: Language & Culture (Topic)",
+            "path": "Cultural Dimensions & Organizational Behavior eJournal"
+        },
+        {
+            "label": "Technology, Operations Management & Production eJournal",
+            "path": "MRN Production & Operations Management Network"
+        },
+        {
+            "label": "Environmental Engineering & Technology eJournal",
+            "path": "Environmental Science Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

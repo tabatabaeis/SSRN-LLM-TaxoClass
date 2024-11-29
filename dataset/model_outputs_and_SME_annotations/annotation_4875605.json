@@ -1,0 +1,126 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "OPER: Computational Techniques (Topic)",
+            "path": "Computing Technologies eJournal"
+        },
+        {
+            "label": "Operations Research eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "Telecommunications & Network Models eJournal",
+            "path": "MRN Operations Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Cybersecurity, Privacy, & Networks eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Software Engineering eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Computing Methodology eJournal",
+            "path": "Computer Science Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Decision-Making in Operations Research eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Computing Technologies eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "Optimization eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "Simulation eJournal",
+            "path": "MRN Operations Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Operations Research eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "OPER: Computational Techniques (Topic)",
+            "path": "Computing Technologies eJournal"
+        },
+        {
+            "label": "OPER: Computational (Topic)",
+            "path": "Stochastic Models eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "OPER: Computational Techniques (Topic)",
+            "path": "Computing Technologies eJournal"
+        },
+        {
+            "label": "Operations Research eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "OPER: Computational (Topic)",
+            "path": "Stochastic Models eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Operations Research eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "OPER: Computational Techniques (Topic)",
+            "path": "Computing Technologies eJournal"
+        },
+        {
+            "label": "OPER: Continuous (Topic)",
+            "path": "Optimization eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Computational & Applied Mathematics eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Operations Research eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "PROD: Analytical (Product) (Topic)",
+            "path": "Product Innovation eJournal"
+        },
+        {
+            "label": "Urban Transportation eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Scheduling eJournal",
+            "path": "MRN Production & Operations Management Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

@@ -1,0 +1,114 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "PSN: Resource Wars (Topic)",
+            "path": "Conflict Studies: Intra-State Conflict eJournal"
+        },
+        {
+            "label": "PSN: Refugees (Effects) (Topic)",
+            "path": "Conflict Studies: Effects of Conflict eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Ethnic/Religious Conflict (Topic)",
+            "path": "Conflict Studies: Intra-State Conflict eJournal"
+        },
+        {
+            "label": "Agricultural, Economic, Political & Social Geography eJournal",
+            "path": "Geography Research Network"
+        },
+        {
+            "label": "Geography Education eJournal",
+            "path": "Geography Research Network"
+        },
+        {
+            "label": "Geography of Human Settlements, Populations & Movements eJournal",
+            "path": "Geography Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Economics Research Network",
+            "path": "Social Sciences"
+        },
+        {
+            "label": "Microeconomics: Welfare Economics & Collective Decision-Making eJournal",
+            "path": "Microeconomic Theory eJournals"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Politics of Ethnicity (Topic)",
+            "path": "Political Behavior: Race, Ethnicity & Immigration Politics eJournal"
+        },
+        {
+            "label": "PSN: Conflict (Topic)",
+            "path": "Political Economy - Development: Underdevelopment & Poverty eJournal"
+        },
+        {
+            "label": "PSN: Ethnic/Religious Conflict (Topic)",
+            "path": "Conflict Studies: Intra-State Conflict eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "PSN: Ethnic/Religious Conflict (Topic)",
+            "path": "Conflict Studies: Intra-State Conflict eJournal"
+        },
+        {
+            "label": "PSN: Conflict (Topic)",
+            "path": "Political Economy - Development: Underdevelopment & Poverty eJournal"
+        },
+        {
+            "label": "PSN: History of Inter-State Conflicts (Topic)",
+            "path": "Conflict Studies: Inter-State Conflict eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "PSN: Ethnic/Religious Conflict (Topic)",
+            "path": "Conflict Studies: Intra-State Conflict eJournal"
+        },
+        {
+            "label": "PSN: Conflict (Topic)",
+            "path": "Political Economy - Development: Underdevelopment & Poverty eJournal"
+        },
+        {
+            "label": "PSN: History of Inter-State Conflicts (Topic)",
+            "path": "Conflict Studies: Inter-State Conflict eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "PSN: Post-Conflict Reconciliation (Topic)",
+            "path": "Conflict Studies: Prevention, Management & Resolution eJournal"
+        },
+        {
+            "label": "PSN: Culture & Underdevelopment (Topic)",
+            "path": "Political Economy - Development: Underdevelopment & Poverty eJournal"
+        },
+        {
+            "label": "PSN: Political Institutions (Topic)",
+            "path": "Conflict Studies: Effects of Conflict eJournal"
+        },
+        {
+            "label": "Agricultural, Economic, Political & Social Geography eJournal",
+            "path": "Geography Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

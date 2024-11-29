@@ -1,0 +1,122 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Disability Inclusion Research eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "SIRN: IDA (Persons with Disabilities) (Sub-Topic)",
+            "path": "SIRN: Low Income Persons with Disabilities (Topic)"
+        },
+        {
+            "label": "Disability Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Disability Inclusion Research eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Sociology of Media & Technology eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Economic Sociology eJournal",
+            "path": "Sociology Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Womens & Gender Studies Research Network",
+            "path": "Social Sciences"
+        },
+        {
+            "label": "WGSRN: Gender, Race & Disability (Topic)",
+            "path": "Gender & Social Protection eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Disability Inclusion Research eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Human-Computer Interaction eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "SIRN: IDA (Persons with Disabilities) (Sub-Topic)",
+            "path": "SIRN: Low Income Persons with Disabilities (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Disability Inclusion Research eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Disability Studies eJournal",
+            "path": "Literature Research Network"
+        },
+        {
+            "label": "SIRN: IDA (Persons with Disabilities) (Sub-Topic)",
+            "path": "SIRN: Low Income Persons with Disabilities (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Disability Inclusion Research eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Human-Computer Interaction eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "SIRN: Overall Income Security (Persons with Disabilities) (Sub-Topic)",
+            "path": "SIRN: Low Income Persons with Disabilities (Topic)"
+        },
+        {
+            "label": "WGSRN: Gender, Race, Disabilities & Education (Sub-Topic)",
+            "path": "WGSRN: Gender, Race & Disability (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Communication & Technology eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "Innovation Practice eJournal",
+            "path": "Innovation Research & Policy Network"
+        },
+        {
+            "label": "WGSRN: Gender, Race, Disabilities & Employment (Sub-Topic)",
+            "path": "WGSRN: Gender, Race & Disability (Topic)"
+        },
+        {
+            "label": "Human-Computer Interaction eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "IRPN: Governance (Sub-Topic)",
+            "path": "IRPN: Innovation Policy Studies (Topic)"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "1",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "1"
+}

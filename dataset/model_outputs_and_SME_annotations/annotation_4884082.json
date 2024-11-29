@@ -1,0 +1,134 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Comparative & Non-U.S. Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "European Public Law: National eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Separation of Powers & Federalism eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Constitutions & Constitutional Development (Topic)",
+            "path": "Political Institutions: Constitutions eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Comparative & Non-U.S. Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Comparative Law & Trans-National Studies eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Constitutions & Constitutional Development (Topic)",
+            "path": "Political Institutions: Constitutions eJournal"
+        },
+        {
+            "label": "Political Institutions: Federalism & Sub-National Politics eJournal",
+            "path": "Political Institutions eJournals"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Comparative & Non-U.S. Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Constitutions & Constitutional Development (Topic)",
+            "path": "Political Institutions: Constitutions eJournal"
+        },
+        {
+            "label": "Law & Society: Public Law - Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Constitutions & Constitutional Design (Topic)",
+            "path": "Political Economy - Development: Political Institutions eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Comparative & Non-U.S. Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Constitutions & Constitutional Development (Topic)",
+            "path": "Political Institutions: Constitutions eJournal"
+        },
+        {
+            "label": "Law & Society: Public Law - Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Constitutions & Constitutional Design (Topic)",
+            "path": "Political Economy - Development: Political Institutions eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Comparative & Non-U.S. Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Constitutions & Constitutional Development (Topic)",
+            "path": "Political Institutions: Constitutions eJournal"
+        },
+        {
+            "label": "Law & Society: Public Law - Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Comparative & Global Administrative Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: International & Comparative Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Initiatives & Referenda (Constitutions) (Topic)",
+            "path": "Political Institutions: Constitutions eJournal"
+        },
+        {
+            "label": "English & Commonwealth Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Comparative Federal Institutions (Topic)",
+            "path": "Political Institutions: Federalism & Sub-National Politics eJournal"
+        },
+        {
+            "label": "Public International Law: Sources eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "5",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "4"
+}

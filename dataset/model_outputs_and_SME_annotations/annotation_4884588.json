@@ -1,0 +1,150 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "ERN: Economic Growth (Econometrics) (Topic)",
+            "path": "Econometric Modeling: Macroeconomics eJournal"
+        },
+        {
+            "label": "ERN: Human Resources in Developing Economies (Topic)",
+            "path": "Development Economics: Microeconomic Issues in Developing Economies eJournal"
+        },
+        {
+            "label": "Economic Growth eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "PSN: Responses to Financial Crises (Development) (Topic)",
+            "path": "Political Economy - Development: Fiscal & Monetary Policy eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Economic Growth eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "International Trade eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Agricultural & Natural Resource Economics eJournal",
+            "path": "Economics Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Development Economics: Regional & Country Studies eJournal",
+            "path": "Development Economics eJournals"
+        },
+        {
+            "label": "Development Economics: Microeconomic Issues in Developing Economies eJournal",
+            "path": "Development Economics eJournals"
+        },
+        {
+            "label": "Development Economics eJournals",
+            "path": "Economics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Economic Growth (Topic)",
+            "path": "Political Economy - Development: Domestic Development Strategies eJournal"
+        },
+        {
+            "label": "ERN: Industrial Policies & Economic Growth in Emerging Markets (Topic)",
+            "path": "Emerging Markets Economics: Industrial Policy & Regulation eJournal"
+        },
+        {
+            "label": "Economic Growth eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "PSN: Population & Family Planning (Topic)",
+            "path": "Political Economy - Development: Health eJournal"
+        },
+        {
+            "label": "ERN: Economic Growth & Aggregate Productivity in Developing Economies (Topic)",
+            "path": "Development Economics: Macroeconomic Issues in Developing Economies eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "PSN: Population & Family Planning (Topic)",
+            "path": "Political Economy - Development: Health eJournal"
+        },
+        {
+            "label": "PSN: Economic Growth (Topic)",
+            "path": "Political Economy - Development: Domestic Development Strategies eJournal"
+        },
+        {
+            "label": "Economic Growth eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "ERN: Industrial Policies & Economic Growth in Emerging Markets (Topic)",
+            "path": "Emerging Markets Economics: Industrial Policy & Regulation eJournal"
+        },
+        {
+            "label": "ERN: East Asia & Pacific (Sub-Topic)",
+            "path": "ERN: Geographic (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Economic Growth eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "ERN: Economic Growth & Aggregate Productivity in Developing Economies (Topic)",
+            "path": "Development Economics: Macroeconomic Issues in Developing Economies eJournal"
+        },
+        {
+            "label": "ERN: Urban Development & Developing Countries (Topic)",
+            "path": "Urban Economics & Regional Studies eJournal"
+        },
+        {
+            "label": "PSN: Economic Growth (Topic)",
+            "path": "Political Economy - Development: Domestic Development Strategies eJournal"
+        },
+        {
+            "label": "PSN: Population & Family Planning (Topic)",
+            "path": "Political Economy - Development: Health eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "PSN: Public Spending (Development) (Topic)",
+            "path": "Political Economy - Development: Fiscal & Monetary Policy eJournal"
+        },
+        {
+            "label": "History of Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "PSN: Regime Type & Development (Topic)",
+            "path": "Political Economy - Development: Political Institutions eJournal"
+        },
+        {
+            "label": "ERN: Africa & South Asia (Sub-Topic)",
+            "path": "ERN: Geographic (Topic)"
+        },
+        {
+            "label": "ERN: Economic Growth (Econometrics) (Topic)",
+            "path": "Econometric Modeling: Macroeconomics eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

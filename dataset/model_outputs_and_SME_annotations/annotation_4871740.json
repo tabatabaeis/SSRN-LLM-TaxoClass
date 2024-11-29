@@ -1,0 +1,114 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "MKTG: Consumer Behavior (Sub-Topic)",
+            "path": "MKTG: Buyer Behavior (Topic)"
+        },
+        {
+            "label": "Addiction & Substance Abuse eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "MKTG: Consumer Decision Making & Search (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Global Health Organizations & Partnerships eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Finance & Economics of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Occupational Health eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Econometric Studies of Households' Consumption Patterns (Topic)",
+            "path": "Econometric Modeling: Microeconometric Models of Household Behavior eJournal"
+        },
+        {
+            "label": "ERN: Microeconometric Studies of Health Markets (Topic)",
+            "path": "Econometric Modeling: Microeconometric Studies of Health, Education, & Housing Markets eJournal"
+        },
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Demand & Supply in Health Economics eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Addiction & Substance Abuse eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "MKTG: Consumer Behavior (Sub-Topic)",
+            "path": "MKTG: Buyer Behavior (Topic)"
+        },
+        {
+            "label": "MKTG: Sociological Analyses of Consumer Behavior (interpretive or quantitative) (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "MKTG: Sociological Analyses of Consumer Behavior (interpretive or quantitative) (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        },
+        {
+            "label": "MKTG: Consumer Choice Modeling (Sub-Topic)",
+            "path": "MKTG: Buyer Behavior (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "MKTG: Consumer Behavior (Sub-Topic)",
+            "path": "MKTG: Buyer Behavior (Topic)"
+        },
+        {
+            "label": "MKTG: Sociological Analyses of Consumer Behavior (interpretive or quantitative) (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        },
+        {
+            "label": "ERPN: Market Segmentation (Sub-Topic)",
+            "path": "ERPN: Market Strategies (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "MKTG: Sector-Specific Research (Topic)",
+            "path": "Quantitative Marketing eJournal"
+        },
+        {
+            "label": "MKTG: Public Policy & Consumer Behavior (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        },
+        {
+            "label": "ERN: Consumption & Savings (Econometrics) (Topic)",
+            "path": "Econometric Modeling: Macroeconomics eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

@@ -1,0 +1,122 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "PSN: Technology (Topic)",
+            "path": "International Political Economy: Globalization eJournal"
+        },
+        {
+            "label": "Generative AI eJournal",
+            "path": "Information & Library Science Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Educational Technology, Media & Library Science eJournal",
+            "path": "Education Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Communication Studies Research Network",
+            "path": "Social Sciences"
+        },
+        {
+            "label": "Educational & Instructional Communication eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "Communication & Technology eJournal",
+            "path": "Communication Studies Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Educational Technology, Media & Library Science eJournal",
+            "path": "Education Research Network"
+        },
+        {
+            "label": "EduRN: Innovation & Sustainability Education (Topic)",
+            "path": "Social Sciences Education eJournal"
+        },
+        {
+            "label": "EduRN: Online/Virtual Instruction (Topic)",
+            "path": "Pedagogy eJournal"
+        },
+        {
+            "label": "Information Policy, Ethics, Access & Use eJournal",
+            "path": "Information & Library Science Research Network"
+        },
+        {
+            "label": "Generative AI eJournal",
+            "path": "Information & Library Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Generative AI eJournal",
+            "path": "Information & Library Science Research Network"
+        },
+        {
+            "label": "PSN: Technology (Topic)",
+            "path": "International Political Economy: Globalization eJournal"
+        },
+        {
+            "label": "Communication & Technology eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "PSN: Education (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "EduRN: Innovation & Sustainability Education (Topic)",
+            "path": "Social Sciences Education eJournal"
+        },
+        {
+            "label": "Educational Psychology & Cognition eJournal",
+            "path": "Education Research Network"
+        },
+        {
+            "label": "Educational Technology, Media & Library Science eJournal",
+            "path": "Education Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Information Systems Education eJournal",
+            "path": "Information Systems & eBusiness Network"
+        },
+        {
+            "label": "EduRN: Comparative Education (Topic)",
+            "path": "Sociology of Education eJournal"
+        },
+        {
+            "label": "PSN: Communications (Topic)",
+            "path": "International Political Economy: Globalization eJournal"
+        },
+        {
+            "label": "Educational Psychology & Cognition eJournal",
+            "path": "Education Research Network"
+        },
+        {
+            "label": "EduRN: Innovation & Sustainability Education (Topic)",
+            "path": "Social Sciences Education eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

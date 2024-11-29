@@ -1,0 +1,150 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Cosmology & Large-Scale Structure eJournal",
+            "path": "Space & Planetary Science Research Network "
+        },
+        {
+            "label": "Astrophysics, Cosmology & Gravitation eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Astronomy & Astrophysics eJournal",
+            "path": "Space & Planetary Science Research Network "
+        },
+        {
+            "label": "Nuclear & Particle Physics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Quantum Information eJournal",
+            "path": "Physics Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Cosmology & Large-Scale Structure eJournal",
+            "path": "Space & Planetary Science Research Network "
+        },
+        {
+            "label": "Astronomy & Astrophysics eJournal",
+            "path": "Space & Planetary Science Research Network "
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Cosmology & Large-Scale Structure eJournal",
+            "path": "Space & Planetary Science Research Network "
+        },
+        {
+            "label": "Astronomy & Astrophysics eJournal",
+            "path": "Space & Planetary Science Research Network "
+        },
+        {
+            "label": "Astrophysics, Cosmology & Gravitation eJournal",
+            "path": "Physics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Cosmology & Large-Scale Structure eJournal",
+            "path": "Space & Planetary Science Research Network "
+        },
+        {
+            "label": "Quantum Information eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Atomic & Molecular Physics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Astrophysics, Cosmology & Gravitation eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Mathematical Physics eJournal",
+            "path": "Mathematics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Cosmology & Large-Scale Structure eJournal",
+            "path": "Space & Planetary Science Research Network "
+        },
+        {
+            "label": "Astrophysics, Cosmology & Gravitation eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Mathematical Physics eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Information Theory & Research eJournal",
+            "path": "Information & Library Science Research Network"
+        },
+        {
+            "label": "Computational & Theoretical Chemistry eJournal",
+            "path": "Chemistry Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Cosmology & Large-Scale Structure eJournal",
+            "path": "Space & Planetary Science Research Network "
+        },
+        {
+            "label": "Astrophysics, Cosmology & Gravitation eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Dynamical Systems eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Astronomy & Astrophysics eJournal",
+            "path": "Space & Planetary Science Research Network "
+        },
+        {
+            "label": "Nonlinear Dynamics eJournal",
+            "path": "Physics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Dynamical Systems eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Astronomy & Astrophysics eJournal",
+            "path": "Space & Planetary Science Research Network "
+        },
+        {
+            "label": "ORG: Network Formation, Development, & Dissolution (Topic)",
+            "path": "Interorganizational Networks & Organizational Behavior eJournal"
+        },
+        {
+            "label": "Topology eJournal",
+            "path": "Mathematics Research Network"
+        },
+        {
+            "label": "Statistical Physics eJournal",
+            "path": "Physics Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "5",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

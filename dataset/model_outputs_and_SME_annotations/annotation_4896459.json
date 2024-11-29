@@ -1,0 +1,98 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "SIRN: Individual Health Insurance (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "SIRN: Family Medical Leave (Sub-Topic)",
+            "path": "SIRN: Other Sickness & Disability Insurance (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Demand & Supply in Health Economics eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Health & the Economy eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Health Care Delivery & Financing eJournal",
+            "path": "Social Insurance Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Health Insurance Reform (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Health Insurance Reform (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "ERN: Health Care Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "Demand & Supply in Health Economics eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Finance & Economics of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "SIRN: Cost Containment (Health) (Sub-Topic)",
+            "path": "SIRN: Health Expenditures (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Finance & Economics of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "ERN: Health Care Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "SIRN: Comparative Health Insurance Models (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "Equity & Disparities in Health Economics eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

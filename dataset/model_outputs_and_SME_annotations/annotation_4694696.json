@@ -1,0 +1,126 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Cognitive Linguistics: Cognition, Language, Gesture eJournal",
+            "path": "Cognitive Science Network"
+        },
+        {
+            "label": "EduRN: Language & Literacy (Topic)",
+            "path": "Pedagogy eJournal"
+        },
+        {
+            "label": "Legal, Medical & Applied Linguistics eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Computational Linguistics & Natural Language Processing eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "EduRN: Multicultural & Multilingual Education (Topic)",
+            "path": "Sociology of Education eJournal"
+        },
+        {
+            "label": "EduRN: Language & Literacy (Topic)",
+            "path": "Pedagogy eJournal"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Children's Literature eJournal",
+            "path": "Literature Research Network"
+        },
+        {
+            "label": "Linguistic Anthropology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Linguistics Education, Language Teaching & Language Acquisition eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Psycholinguistics & Neurolinguistics eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Linguistic Anthropology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "LingRN: Languages of the Americas (Topic)",
+            "path": "Regional Languages eJournal"
+        },
+        {
+            "label": "Linguistics Education, Language Teaching & Language Acquisition eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "LingRN: Languages of the Americas (Topic)",
+            "path": "Regional Languages eJournal"
+        },
+        {
+            "label": "Linguistics Education, Language Teaching & Language Acquisition eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Linguistic Anthropology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "LingRN: Languages of the Americas (Topic)",
+            "path": "Regional Languages eJournal"
+        },
+        {
+            "label": "Legal, Medical & Applied Linguistics eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "Language Documentation, Description & Revitalization eJournal",
+            "path": "Linguistics Research Network"
+        },
+        {
+            "label": "EduRN: Foreign Language (Topic)",
+            "path": "Pedagogy eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

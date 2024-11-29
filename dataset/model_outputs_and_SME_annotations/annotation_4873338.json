@@ -1,0 +1,94 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "ERN: Stochastic & Dynamic Games (Topic)",
+            "path": "Game Theory & Bargaining Theory eJournal"
+        },
+        {
+            "label": "PSN: Game Theory & Experiments (Topic)",
+            "path": "Games & Political Behavior eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Game Theory (Topic)",
+            "path": "Games & Political Behavior eJournal"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Stochastic & Dynamic Games (Topic)",
+            "path": "Game Theory & Bargaining Theory eJournal"
+        },
+        {
+            "label": "PSN: Game Theory & Experiments (Topic)",
+            "path": "Games & Political Behavior eJournal"
+        },
+        {
+            "label": "Neuroeconomics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Human Behavior & Game Theory eJournal",
+            "path": "Decision Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "PSN: Game Theory & Experiments (Topic)",
+            "path": "Games & Political Behavior eJournal"
+        },
+        {
+            "label": "ERN: Stochastic & Dynamic Games (Topic)",
+            "path": "Game Theory & Bargaining Theory eJournal"
+        },
+        {
+            "label": "Human Behavior & Game Theory eJournal",
+            "path": "Decision Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "PSN: Game Theory (Topic)",
+            "path": "Games & Political Behavior eJournal"
+        },
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ERN: Non-Cooperative Games (Topic)",
+            "path": "Game Theory & Bargaining Theory eJournal"
+        },
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "ERN: Search, Learning & Information Costs, & Behavior of Economic Agents (Topic)",
+            "path": "Microeconomics: Search; Learning; Information Costs & Specific Knowledge; Expectation & Speculation eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

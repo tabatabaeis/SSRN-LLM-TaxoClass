@@ -1,0 +1,142 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "PSN: International Monetary Fund (Topic)",
+            "path": "International Political Economy: Monetary Relations eJournal"
+        },
+        {
+            "label": "PSN: Interest Rates (Topic)",
+            "path": "Political Economy - Development: Fiscal & Monetary Policy eJournal"
+        },
+        {
+            "label": "ERPN: Microfinance (Sub-Topic)",
+            "path": "ERPN: Institutions/Organizations (Sub-Topic)"
+        },
+        {
+            "label": "PSN: Global Banking (Topic)",
+            "path": "International Political Economy: Investment & Finance eJournal"
+        },
+        {
+            "label": "POL: Underdeveloped Third World Markets (Topic)",
+            "path": "International Strategy & Policy eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Emerging Markets: Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "International Finance eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Environmental Economics eJournal",
+            "path": "Economics Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Financial Markets, Saving & Capital Investment in Developing Economies (Topic)",
+            "path": "Development Economics: Macroeconomic Issues in Developing Economies eJournal"
+        },
+        {
+            "label": "Monetary Economics: Financial System & Institutions eJournal",
+            "path": "Monetary Economics eJournals"
+        },
+        {
+            "label": "Development Economics eJournals",
+            "path": "Economics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Financial Institutions in Emerging Markets (Topic)",
+            "path": "Monetary Economics: Financial System & Institutions eJournal"
+        },
+        {
+            "label": "Financial Literacy eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "PSN: Central Banking & Reserves (Topic)",
+            "path": "Political Economy - Development: Fiscal & Monetary Policy eJournal"
+        },
+        {
+            "label": "ERN: Financial Markets, Saving & Capital Investment in Developing Economies (Topic)",
+            "path": "Development Economics: Macroeconomic Issues in Developing Economies eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Microfinance & Women Entrepreneurs (Sub-Topic)",
+            "path": "WGSRN: Gender & Development (Topic)"
+        },
+        {
+            "label": "ERPN: Microfinance (Sub-Topic)",
+            "path": "ERPN: Institutions/Organizations (Sub-Topic)"
+        },
+        {
+            "label": "PSN: Financial Institutions (Topic)",
+            "path": "Political Economy - Development: Political Institutions eJournal"
+        },
+        {
+            "label": "Financial Literacy eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "ERN: Financial Institutions in Emerging Markets (Topic)",
+            "path": "Monetary Economics: Financial System & Institutions eJournal"
+        },
+        {
+            "label": "Household Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Banking & Insurance eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        },
+        {
+            "label": "Risk Management & Analysis in Financial Institutions eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ERN: Financial Institutions in Emerging Markets (Topic)",
+            "path": "Monetary Economics: Financial System & Institutions eJournal"
+        },
+        {
+            "label": "Risk Management & Analysis in Financial Institutions eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        },
+        {
+            "label": "PSN: Interest Rates (Topic)",
+            "path": "Political Economy - Development: Fiscal & Monetary Policy eJournal"
+        },
+        {
+            "label": "WGSRN: Agriculture, Livelihoods & Gender (Sub-Topic)",
+            "path": "WGSRN: Gender & Development (Topic)"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

@@ -1,0 +1,122 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Middle Eastern & Near Eastern History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "PSN: Terrorism Case Studies (Topic)",
+            "path": "Conflict Studies: Terrorism eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Agricultural, Economic, Political & Social Geography eJournal",
+            "path": "Geography Research Network"
+        },
+        {
+            "label": "Cartography, Spatial Analysis & Geographical Methodology eJournal",
+            "path": "Geography Research Network"
+        },
+        {
+            "label": "Cognitive, Cultural & Historical Geography eJournal",
+            "path": "Geography Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Conflict Studies: Inter-State Conflict eJournal",
+            "path": "Conflict Studies eJournals"
+        },
+        {
+            "label": "PSN: Alliances/Inter-State Relationships (Topic)",
+            "path": "Conflict Studies: International Cooperation eJournal"
+        },
+        {
+            "label": "PSN: Combating Terrorism (Topic)",
+            "path": "Conflict Studies: Terrorism eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Middle East (Topic)",
+            "path": "International Institutions: Regional Governance eJournal"
+        },
+        {
+            "label": "PSN: Arms Races & Arms Control (Topic)",
+            "path": "Conflict Studies: Inter-State Conflict eJournal"
+        },
+        {
+            "label": "PSN: Terrorism Case Studies (Topic)",
+            "path": "Conflict Studies: Terrorism eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "PSN: Middle East (Topic)",
+            "path": "International Institutions: Regional Governance eJournal"
+        },
+        {
+            "label": "Middle Eastern & Near Eastern History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Military & Homeland Security eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "PSN: Middle East (Development) (Topic)",
+            "path": "Political Economy - Development: Comparative Regional Economies eJournal"
+        },
+        {
+            "label": "PSN: Arms Races & Arms Control (Topic)",
+            "path": "Conflict Studies: Inter-State Conflict eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Middle Eastern & Near Eastern History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "PSN: Middle East (Topic)",
+            "path": "International Institutions: Regional Governance eJournal"
+        },
+        {
+            "label": "PSN: Arms Races & Arms Control (Topic)",
+            "path": "Conflict Studies: Inter-State Conflict eJournal"
+        },
+        {
+            "label": "PSN: International Peace-Keeping (Topic)",
+            "path": "Conflict Studies: Prevention, Management & Resolution eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "PSN: Arms Races & Arms Control (Topic)",
+            "path": "Conflict Studies: Inter-State Conflict eJournal"
+        },
+        {
+            "label": "PSN: Effects of Terrorism (Topic)",
+            "path": "Conflict Studies: Terrorism eJournal"
+        },
+        {
+            "label": "PSN: International Peace-Keeping (Topic)",
+            "path": "Conflict Studies: Prevention, Management & Resolution eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

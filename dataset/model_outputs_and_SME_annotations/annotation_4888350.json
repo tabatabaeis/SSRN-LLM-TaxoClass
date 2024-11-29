@@ -1,0 +1,118 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Macroeconomic Issues in Health Care eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Health & the Economy eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "SIRN: Comparative Health Insurance Models (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "Equity & Disparities in Health Economics eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Health & the Economy eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Health Care Delivery & Financing eJournal",
+            "path": "Social Insurance Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "SIRN: Comparative Analyses of Health Expenditures (Sub-Topic)",
+            "path": "SIRN: Health Expenditures (Topic)"
+        },
+        {
+            "label": "Macroeconomic Issues in Health Care eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "SIRN: Effects of Medicare on General Health Care System (Sub-Topic)",
+            "path": "SIRN: Medicare (Topic)"
+        },
+        {
+            "label": "Macroeconomic Issues in Health Care eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Cost Containment (Health) (Sub-Topic)",
+            "path": "SIRN: Health Expenditures (Topic)"
+        },
+        {
+            "label": "ERN: Health Care Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "ERN: Microeconometric Studies of Health Markets (Topic)",
+            "path": "Econometric Modeling: Microeconometric Studies of Health, Education, & Housing Markets eJournal"
+        },
+        {
+            "label": "SIRN: Rates of Coverage (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "4"
+}

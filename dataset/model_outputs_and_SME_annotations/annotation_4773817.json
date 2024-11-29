@@ -1,0 +1,138 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "WGSRN: Empirical Studies on Impact of Climate Change on Women (Sub-Topic)",
+            "path": "WGSRN: Extreme Events & Climate Change (Topic)"
+        },
+        {
+            "label": "PSN: Global Warming & Climate Change (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "PSN: Infrastructure (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Environmental Science & Climate Change eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Environmental Geoscience eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Environmental Pollution & Prevention eJournal",
+            "path": "Environmental Science Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Environmental Science & Climate Change eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "PSN: Natural Disasters (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "WGSRN: Extreme Events & Climate Change (Topic)",
+            "path": "Gender & Global Issues eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Sustainable Transport eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Transportation Planning & Policy eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Transportation, Economy & Society eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Transportation, Geography & the Spatial Structure eJournal",
+            "path": "Transportation Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Transportation Planning & Policy eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Sustainable Transport eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Transportation, Geography & the Spatial Structure eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Urban & Regional Resilience eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "International Trade & Freight Distribution eJournal",
+            "path": "Transportation Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Transportation, Geography & the Spatial Structure eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Sustainable Transport eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "International Trade & Freight Distribution eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "Transportation Planning & Policy eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "PROD: Analytical (Supply) (Topic)",
+            "path": "Supply Chain Management eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ERN: Institutional Change & the Environment (Topic)",
+            "path": "Institutions & Transition Economics: Environmental Issues eJournal"
+        },
+        {
+            "label": "Transport, Energy & Environment eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "International Trade & Freight Distribution eJournal",
+            "path": "Transportation Research Network"
+        },
+        {
+            "label": "ERN: Environmental Aspects & Impact (Topic)",
+            "path": "Emerging Markets Economics: Environmental & Social Aspects eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

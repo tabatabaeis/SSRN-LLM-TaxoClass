@@ -1,0 +1,154 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Global Health Organizations & Partnerships eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "PSN: Disease & Illness (Topic)",
+            "path": "Political Economy - Development: Health eJournal"
+        },
+        {
+            "label": "WGSRN: Gender, Vulnerability, Adaptation & Resilience (Sub-Topic)",
+            "path": "WGSRN: Extreme Events & Climate Change (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Nursing Care eJournal",
+            "path": "Nursing Research Network"
+        },
+        {
+            "label": "Nursing Education eJournal",
+            "path": "Nursing Research Network"
+        },
+        {
+            "label": "Nursing Evidence-Based Practice eJournal",
+            "path": "Nursing Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Nursing Evidence-Based Practice eJournal",
+            "path": "Nursing Research Network"
+        },
+        {
+            "label": "Global Health Organizations & Partnerships eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Health Systems & Hospital Infrastructure eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Occupational Health eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Nursing Management eJournal",
+            "path": "Nursing Research Network"
+        },
+        {
+            "label": "Global Health Organizations & Partnerships eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Global Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Nursing Care eJournal",
+            "path": "Nursing Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Nursing Management eJournal",
+            "path": "Nursing Research Network"
+        },
+        {
+            "label": "Public Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Nursing Care eJournal",
+            "path": "Nursing Research Network"
+        },
+        {
+            "label": "Occupational Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Human Health & Disease eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Nursing Management eJournal",
+            "path": "Nursing Research Network"
+        },
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "COVID-19 eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Health Systems & Hospital Infrastructure eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Infectious Diseases eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Global Women's Health (Topic)",
+            "path": "Women & Health eJournal"
+        },
+        {
+            "label": "Politics & Governance of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Health Systems & Hospital Infrastructure eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Global Health Organizations & Partnerships eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Nursing Care eJournal",
+            "path": "Nursing Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

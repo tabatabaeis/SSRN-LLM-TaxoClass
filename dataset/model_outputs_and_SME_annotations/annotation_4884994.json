@@ -1,0 +1,146 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Protected Lands Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Ecology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Natural Resources Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Environmental Anthropology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "Botany eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Ecosystem Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Global Ecological Change & Pollution Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Ecology Education eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Natural Resource Management & Conservation eJournal",
+            "path": "Environmental Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Ecology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Global Ecological Change & Pollution Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "PSN: Deforestation (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "Biodiversity eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Ecology Education eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Applied Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Global Ecological Change & Pollution Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Ecology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biodiversity eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Protected Lands Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Ecology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "PSN: Deforestation (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "Biodiversity eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Horticulture & Forestry eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Applied Ecology eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Global Ecological Change & Pollution Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Agricultural Sustainability & Security eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Botany eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biology & Sustainability eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "ERN: Comparative Case Studies of Environmental & Social Aspects of Rapid (Topic)",
+            "path": "Emerging Markets Economics: Environmental & Social Aspects eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

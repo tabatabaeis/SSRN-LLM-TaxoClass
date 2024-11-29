@@ -1,0 +1,142 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Mechanical Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Fluid Dynamics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Computational Fluid Dynamics eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Energy Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Engineering Physics eJournal",
+            "path": "Physics Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Materials Processing & Manufacturing eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Nanomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Structural Materials eJournal",
+            "path": "Materials Science Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Computational Fluid Dynamics eJournal",
+            "path": "Engineering Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Energy Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Mechanical Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Fluid Dynamics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Industrial & Manufacturing Engineering eJournal",
+            "path": "Engineering Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Mechanical Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Energy Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Fluid Dynamics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Engineering Physics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Transport Physics eJournal",
+            "path": "Physics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Mechanical Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Fluid Dynamics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Transport Physics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Materials Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Materials Processing & Manufacturing eJournal",
+            "path": "Materials Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Engineering Physics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Industrial & Manufacturing Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "IRPN: Innovation & Product Development (Topic)",
+            "path": "Innovation & Management Science eJournal"
+        },
+        {
+            "label": "Environmental Engineering & Technology eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Mechanical Engineering eJournal",
+            "path": "Engineering Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

@@ -1,0 +1,134 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "U.S. Constitutional Law: Separation of Powers & Federalism eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Interpretation & Judicial Review eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Rights & Liberties eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Constitutions & Constitutional Development (Topic)",
+            "path": "Political Institutions: Constitutions eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Historiography & Philosophy of History eJournal",
+            "path": "History Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "History Research Network",
+            "path": "Social Sciences"
+        },
+        {
+            "label": "North American History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Interpretation & Judicial Review eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Separation of Powers & Federalism eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Political Institutions: Constitutions eJournal",
+            "path": "Political Institutions eJournals"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "U.S. Constitutional Law: Rights & Liberties eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Comparative & Non-U.S. Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Interpretation & Judicial Review eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Comparative & Non-U.S. Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Separation of Powers & Federalism eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Interpretation & Judicial Review eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Constitutions & Constitutional Development (Topic)",
+            "path": "Political Institutions: Constitutions eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "U.S. Constitutional Law: Separation of Powers & Federalism eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Citizenship (Topic)",
+            "path": "Political Theory: Political Philosophy eJournal"
+        },
+        {
+            "label": "Social & Political Philosophy eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Comparative & Non-U.S. Constitutional Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: History of Domestic Politics and Conflict (Topic)",
+            "path": "Conflict Studies: Domestic Politics eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Law & Positive Political Theory eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Intergovernmental Relations & Federalism (Topic)",
+            "path": "Political Institutions: Federalism & Sub-National Politics eJournal"
+        },
+        {
+            "label": "State & Local Government eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "U.S. Constitutional Law: Interpretation & Judicial Review eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

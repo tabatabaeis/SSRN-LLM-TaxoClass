@@ -1,0 +1,118 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "MKTG: Public Policy & Consumer Behavior (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        },
+        {
+            "label": "MKTG: Advertising (Topic)",
+            "path": "Managerial Marketing eJournal"
+        },
+        {
+            "label": "ERN: Entry & Exit (Topic)",
+            "path": "IO: Theory eJournal"
+        },
+        {
+            "label": "Marketing Science eJournal",
+            "path": "MRN Operations Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Environment & Human Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Health Systems & Hospital Infrastructure eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Health Economics Evaluation Methods eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Product Safety (Topic)",
+            "path": "Comparative Political Economy: Regulation eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "MKTG: Public Policy & Consumer Behavior (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        },
+        {
+            "label": "MKTG: Sector-Specific Research (Topic)",
+            "path": "Quantitative Marketing eJournal"
+        },
+        {
+            "label": "MKTG: International Marketing (Topic)",
+            "path": "Managerial Marketing eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "MKTG: Public Policy & Consumer Behavior (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        },
+        {
+            "label": "MKTG: Marketing Other (Topic)",
+            "path": "Quantitative Marketing eJournal"
+        },
+        {
+            "label": "MKTG: International Marketing (Topic)",
+            "path": "Managerial Marketing eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "MKTG: Marketing Other (Topic)",
+            "path": "Quantitative Marketing eJournal"
+        },
+        {
+            "label": "MKTG: Marketing Strategy & Planning (Topic)",
+            "path": "Managerial Marketing eJournal"
+        },
+        {
+            "label": "IRPN: Innovation & Food & Drug Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Regulatory Law & Policy (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "MKTG: Innovation & Diffusion (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        },
+        {
+            "label": "MKTG: New Product Development & Product Line Management (Topic)",
+            "path": "Managerial Marketing eJournal"
+        },
+        {
+            "label": "MKTG: Measurement & Data Analysis (Topic)",
+            "path": "Quantitative Marketing eJournal"
+        },
+        {
+            "label": "ERN: Pricing (Topic)",
+            "path": "IO: Theory eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

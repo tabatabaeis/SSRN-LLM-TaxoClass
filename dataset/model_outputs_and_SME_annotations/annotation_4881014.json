@@ -1,0 +1,142 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Architecture History & Historic Preservation eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Interior Design eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Cognition & the Arts eJournal",
+            "path": "Cognitive Science Network"
+        },
+        {
+            "label": "Aesthetics & Philosophy of Art eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Built Environment eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Architecture History & Historic Preservation eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Architecture Sciences eJournal",
+            "path": "Architecture Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Aesthetics & Philosophy of Art eJournal",
+            "path": "Philosophy Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Architecture History & Historic Preservation eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Architecture Sciences eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Art History eJournal",
+            "path": "Visual, Performing & Fine Arts Research Network"
+        },
+        {
+            "label": "Archaeology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "Urbanism eJournal",
+            "path": "Architecture Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Architecture Sciences eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Aesthetics & Philosophy of Art eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Archaeology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "Art History eJournal",
+            "path": "Visual, Performing & Fine Arts Research Network"
+        },
+        {
+            "label": "Cognition & the Arts eJournal",
+            "path": "Cognitive Science Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Architecture History & Historic Preservation eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Architecture Sciences eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Architecture Education eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Art History eJournal",
+            "path": "Visual, Performing & Fine Arts Research Network"
+        },
+        {
+            "label": "Archaeology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Art & Science eJournal",
+            "path": "Visual, Performing & Fine Arts Research Network"
+        },
+        {
+            "label": "Architecture Sciences eJournal",
+            "path": "Architecture Research Network"
+        },
+        {
+            "label": "Visual Anthropology, Media Studies & Performance eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "Arts Administration, Museum Studies, Conservation & Restoration eJournal",
+            "path": "Visual, Performing & Fine Arts Research Network"
+        },
+        {
+            "label": "Historiography & Philosophy of History eJournal",
+            "path": "History Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

@@ -1,0 +1,138 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "IRPN: Innovation & Health Law & Policy (Topic)",
+            "path": "Innovation Law & Policy eJournal"
+        },
+        {
+            "label": "WGSRN: Gender Research & Biomedical Research   ",
+            "path": "Gender in the Global Research Landscape eJournal"
+        },
+        {
+            "label": "Oncology eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Oncology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Medical Genetics & Genomics eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Gastroenterology eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Oncology eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Oncology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Medical Devices eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Radiology & Medical Imaging eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Applied & Industrial Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        },
+        {
+            "label": "Medical, Pharmaceutical & Pharmacological Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Oncology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Medical Devices eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Pharmaceutics & Drug Discovery eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Applied & Industrial Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        },
+        {
+            "label": "Bioengineering eJournal",
+            "path": "Engineering Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Oncology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Radiology & Medical Imaging eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Pharmaceutics & Drug Discovery eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Applied & Industrial Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        },
+        {
+            "label": "Biochemistry Methods eJournal",
+            "path": "Biochemistry Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Biochemistry eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "IRPN: Innovation & Health Law & Policy (Topic)",
+            "path": "Innovation Law & Policy eJournal"
+        },
+        {
+            "label": "Medical, Pharmaceutical & Pharmacological Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        },
+        {
+            "label": "Medical Ethics eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Medical Devices eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

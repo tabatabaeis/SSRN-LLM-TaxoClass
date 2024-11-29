@@ -1,0 +1,142 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "International, Transnational & Comparative Criminal Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "WGSRN: Global Norms, Standards, Prevention & Resolutions (Sub-Topic)",
+            "path": "WGSRN: Women, Peace & Security (Topic)"
+        },
+        {
+            "label": "PSN: Political Institutions & Conflict (Topic)",
+            "path": "Conflict Studies: Domestic Politics eJournal"
+        },
+        {
+            "label": "PSN: International Law/Rule of Law & Terrorism (Topic)",
+            "path": "Conflict Studies: Terrorism eJournal"
+        },
+        {
+            "label": "Public International Law: Sources eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Public International Law: Courts & Adjudication eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Public International Law: Foreign Relations & Policy Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Public International Law: Human Rights eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Public International Law: Courts & Adjudication eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: International Law/Rule of Law & Terrorism (Topic)",
+            "path": "Conflict Studies: Terrorism eJournal"
+        },
+        {
+            "label": "PSN: International Law (Conflict Studies) (Topic)",
+            "path": "Conflict Studies: Prevention, Management & Resolution eJournal"
+        },
+        {
+            "label": "Public International Law: Foreign Relations & Policy Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "National Security & Foreign Relations Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: International Criminal Court (Topic)",
+            "path": "International Institutions: Courts eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "PSN: International Law/Rule of Law & Terrorism (Topic)",
+            "path": "Conflict Studies: Terrorism eJournal"
+        },
+        {
+            "label": "International, Transnational & Comparative Criminal Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Public International Law: Foreign Relations & Policy Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: International Law (Conflict Studies) (Topic)",
+            "path": "Conflict Studies: Prevention, Management & Resolution eJournal"
+        },
+        {
+            "label": "PSN: International Criminal Court (Topic)",
+            "path": "International Institutions: Courts eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Public International Law: Foreign Relations & Policy Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Public International Law: Courts & Adjudication eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: International Law/Rule of Law & Terrorism (Topic)",
+            "path": "Conflict Studies: Terrorism eJournal"
+        },
+        {
+            "label": "National Security & Foreign Relations Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: International Criminal Court (Topic)",
+            "path": "International Institutions: Courts eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "PSN: International Peace-Keeping (Topic)",
+            "path": "Conflict Studies: Prevention, Management & Resolution eJournal"
+        },
+        {
+            "label": "PSN: Political Institutions & Conflict (Topic)",
+            "path": "Conflict Studies: Domestic Politics eJournal"
+        },
+        {
+            "label": "Criminal Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: International Law/Compliance (Topic)",
+            "path": "International Institutions: Laws, Rule-Making/Interpretation, & Compliance eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

@@ -1,0 +1,133 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Neuropharmacology & Neurotoxicology eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "PsychRN: Psychopharmacology (Topic)",
+            "path": "Clinical & Counseling Psychology eJournal"
+        },
+        {
+            "label": "Biology & Law eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Neurolaw & Neuroethics eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Law, Brain & Behavior eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Pharmacology & Toxicology eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Pharmaceutical & Medicinal Chemistry eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Pharmacy eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Legal Scholarship Network",
+            "path": "Social Sciences"
+        },
+        {
+            "label": "Law, Brain & Behavior eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Forensic Science eJournal",
+            "path": "Criminal Justice Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Law, Brain & Behavior eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "IRPN: Innovation & Food & Drug Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Regulatory Law & Policy (Topic)"
+        },
+        {
+            "label": "Pharmacology & Toxicology eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Experimental Legal Studies eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Medical Ethics eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Biology & Law eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Law, Brain & Behavior eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "IRPN: Innovation & Health Law & Policy (Topic)",
+            "path": "Innovation Law & Policy eJournal"
+        },
+        {
+            "label": "Environmental & Science Communication eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "Human Health & Disease eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Medical Ethics eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "IRPN: Innovation & Health Law & Policy (Topic)",
+            "path": "Innovation Law & Policy eJournal"
+        },
+        {
+            "label": "Law, Brain & Behavior eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Pharmacology & Toxicology eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "PRN: General Philosophy of Science (Topic)",
+            "path": "Philosophy of Science eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

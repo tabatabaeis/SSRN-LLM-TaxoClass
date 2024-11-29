@@ -1,0 +1,150 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Animal Science eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Veterinary Medicine Education eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Wildlife, Zoo & Shelter Veterinary Medicine eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Veterinary Microbiology, Virology, Toxicology & Parasitology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Human Health & Disease eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Animal Law, Welfare, Ethics & Forensics eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Veterinary Diagnostics, Imaging & Technology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Veterinary Microbiology, Virology, Toxicology & Parasitology eJournal",
+            "path": "Veterinary Science Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Animal Law, Welfare, Ethics & Forensics eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Large Animal Research eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Small Animal Research eJournal",
+            "path": "Veterinary Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Animal Science eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Veterinary Microbiology, Virology, Toxicology & Parasitology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Large Animal Research eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Virology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Veterinary Immunology, Endocrinology & Pathology eJournal",
+            "path": "Veterinary Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Veterinary Microbiology, Virology, Toxicology & Parasitology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Animal Science eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Veterinary Medicine Education eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Veterinary Diagnostics, Imaging & Technology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Agricultural Law & Policy eJournal",
+            "path": "Agricultural Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Large Animal Research eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Veterinary Microbiology, Virology, Toxicology & Parasitology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Veterinary Immunology, Endocrinology & Pathology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Animal Science eJournal",
+            "path": "Agricultural Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ERN: Agricultural Economics (Topic)",
+            "path": "Econometric Modeling: Agriculture, Natural Resources & Environmental Economics eJournal"
+        },
+        {
+            "label": "Agricultural Sustainability & Security eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agricultural Law & Policy eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Veterinary Immunology, Endocrinology & Pathology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Animal Science eJournal",
+            "path": "Agricultural Science Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

@@ -1,0 +1,130 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "WGSRN: Inclusion of Sex & Gender Analyses in Research   ",
+            "path": "Gender in the Global Research Landscape eJournal"
+        },
+        {
+            "label": "PSN: Rule of Law (Topic)",
+            "path": "Political Institutions: Constitutions eJournal"
+        },
+        {
+            "label": "WGSRN: Gender Difference in Crime & Access to Justice (Topic)",
+            "path": "Gender, Politics & Justice eJournal"
+        },
+        {
+            "label": "Female Leadership Challenges eJournal",
+            "path": "MRN Leadership Research Network"
+        },
+        {
+            "label": "WGSRN: Women's Political Participation",
+            "path": "WGSRN: Women's Political, Economic & Human Rights (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Gender Gaps in Employment & Income (Sub-Topic)",
+            "path": "WGSRN: Gender Disparity (Topic)"
+        },
+        {
+            "label": "Other Topics in Women's & Gender Studies eJournal",
+            "path": "Womens & Gender Studies Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Gender, Politics & Justice eJournal",
+            "path": "Womens & Gender Studies Research Network"
+        },
+        {
+            "label": "Women & Law eJournal",
+            "path": "Womens & Gender Studies Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Legal, Economic & Political Institutional Reforms to Promote Gender Equality (Sub-Topic)",
+            "path": "WGSRN: Women's Political, Economic & Human Rights (Topic)"
+        },
+        {
+            "label": "WGSRN: Gender Gaps in Employment & Income (Sub-Topic)",
+            "path": "WGSRN: Gender Disparity (Topic)"
+        },
+        {
+            "label": "WGSRN: Gender Difference in Crime & Access to Justice (Topic)",
+            "path": "Gender, Politics & Justice eJournal"
+        },
+        {
+            "label": "Law & Society: Private Law - Discrimination Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Gender Difference in Crime & Access to Justice (Topic)",
+            "path": "Gender, Politics & Justice eJournal"
+        },
+        {
+            "label": "WGSRN: Legal, Economic & Political Institutional Reforms to Promote Gender Equality (Sub-Topic)",
+            "path": "WGSRN: Women's Political, Economic & Human Rights (Topic)"
+        },
+        {
+            "label": "WGSRN: Gender Gaps in Employment & Income (Sub-Topic)",
+            "path": "WGSRN: Gender Disparity (Topic)"
+        },
+        {
+            "label": "Discrimination, Law & Justice eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Discrimination Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Rule of Law & Access to Justice (Sub-Topic)",
+            "path": "WGSRN: Women, Peace & Security (Topic)"
+        },
+        {
+            "label": "WGSRN: Gender Difference in Crime & Access to Justice (Topic)",
+            "path": "Gender, Politics & Justice eJournal"
+        },
+        {
+            "label": "WGSRN: Women, Gender Equity & Law (Topic)",
+            "path": "Women & Law eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "PSN: Gender Studies (Topic)",
+            "path": "Conflict Studies: International Relations Theory eJournal"
+        },
+        {
+            "label": "WGSRN: Gender & Researcher Performance   ",
+            "path": "Gender in the Global Research Landscape eJournal"
+        },
+        {
+            "label": "WGSRN: Feminist Political Economy Studies (Topic)",
+            "path": "Women, History & Culture eJournal"
+        },
+        {
+            "label": "WGSRN: Gender Equality, Political Leadership & Institutions (Topic)",
+            "path": "Gender, Politics & Justice eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

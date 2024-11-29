@@ -1,0 +1,150 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Communication & Technology eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "Cybersecurity & Data Privacy Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "IRPN: Innovation & Cyberlaw & Policy (Topic)",
+            "path": "Innovation Law & Policy eJournal"
+        },
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Cybersecurity, Privacy, & Networks eJournal",
+            "path": "Computer Science Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Cybersecurity & Data Privacy Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Cyberspace Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Sociology Research Network",
+            "path": "Social Sciences"
+        },
+        {
+            "label": "Gender, Politics & Justice eJournal",
+            "path": "Womens & Gender Studies Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Cybersecurity, Privacy, & Networks eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Emerging Legal Issues in Information Systems eJournal",
+            "path": "Information Systems & eBusiness Network"
+        },
+        {
+            "label": "Information Systems Legislation & Regulations eJournal",
+            "path": "Information Systems & eBusiness Network"
+        },
+        {
+            "label": "Sociology of Crime & Deviance eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Criminal Law, Courts & Procedure eJournal",
+            "path": "Criminal Justice Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Cyberspace Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Cybersecurity & Data Privacy Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: International Criminal Organizations (Topic)",
+            "path": "International Institutions: Transnational Networks eJournal"
+        },
+        {
+            "label": "PSN: Security & Safety (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Cybersecurity & Data Privacy Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Cybersecurity, Privacy, & Networks eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Sociology of Crime & Deviance eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Criminal Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Criminal Justice Education eJournal",
+            "path": "Criminal Justice Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Cybersecurity, Privacy, & Networks eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Information Systems: Behavioral & Social Methods eJournal",
+            "path": "Information Systems & eBusiness Network"
+        },
+        {
+            "label": "Sociology of Crime & Deviance eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Emerging Legal Issues in Information Systems eJournal",
+            "path": "Information Systems & eBusiness Network"
+        },
+        {
+            "label": "Information Systems Legislation & Regulations eJournal",
+            "path": "Information Systems & eBusiness Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

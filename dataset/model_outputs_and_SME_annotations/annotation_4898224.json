@@ -1,0 +1,146 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "IRPN: Innovation & Cyberlaw & Policy (Topic)",
+            "path": "Innovation Law & Policy eJournal"
+        },
+        {
+            "label": "ERPN: Copyright & Trademark (Sub-Topic)",
+            "path": "ERPN: Intellectual Property (Topic)"
+        },
+        {
+            "label": "Emerging Legal Issues in Information Systems eJournal",
+            "path": "Information Systems & eBusiness Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Antitrust Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Cybersecurity & Data Privacy Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Cyberspace Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "IRPN: Innovation & Intellectual Property Law & Policy (Topic)",
+            "path": "Innovation Law & Policy eJournal"
+        },
+        {
+            "label": "Information Privacy Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Communication Law & Policy eJournal",
+            "path": "Communication Studies Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Information Policy, Ethics, Access & Use eJournal",
+            "path": "Information & Library Science Research Network"
+        },
+        {
+            "label": "Intellectual Property: Copyright Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Cyberspace Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Legal Information, Technology & Law Librarianship eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "IRPN: Innovation & Copyright Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Intellectual Property Law & Policy (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Cyberspace Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Information Policy, Ethics, Access & Use eJournal",
+            "path": "Information & Library Science Research Network"
+        },
+        {
+            "label": "Emerging Legal Issues in Information Systems eJournal",
+            "path": "Information Systems & eBusiness Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Intellectual Property eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Intellectual Property: Copyright Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: Private Law - Intellectual Property eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Communication Law & Policy eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Antitrust eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "IRPN: Innovation & Telecommunications Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Regulatory Law & Policy (Topic)"
+        },
+        {
+            "label": "ERN: Antitrust (IO) (Topic)",
+            "path": "IO: Regulation, Antitrust & Privatization eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Intellectual Property: Copyright Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "ERN: Intellectual Property (Topic)",
+            "path": "IO: Productivity, Innovation & Technology eJournal"
+        },
+        {
+            "label": "Cyberspace Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Cybersecurity & Data Privacy Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "History, Ethics & Philosophy of Communication eJournal",
+            "path": "Communication Studies Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

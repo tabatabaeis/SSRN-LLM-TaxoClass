@@ -1,0 +1,102 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "SIRN: Pension Reform (Sub-Topic)",
+            "path": "SIRN: Employment-Based Pensions (Topic)"
+        },
+        {
+            "label": "Pension Risk Management eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Behavioral & Experimental Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Emerging Markets: Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Pension Risk Management eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "SIRN: The Intersection of Social Welfare & Social Insurance (Topic)",
+            "path": "Poverty, Income Distribution & Income Assistance eJournal"
+        },
+        {
+            "label": "SIRN: Adequacy of Retirement Income (Sub-Topic)",
+            "path": "SIRN: Retirement Income (Topic)"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Social Security, Pensions & Retirement Income eJournal",
+            "path": "Social Insurance Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Pension Reform (Sub-Topic)",
+            "path": "SIRN: Employment-Based Pensions (Topic)"
+        },
+        {
+            "label": "PSN: Pensions & Retirement (Topic)",
+            "path": "Comparative Political Economy: Social Welfare Policy eJournal"
+        },
+        {
+            "label": "ERN: Social Security & Public Pensions (Topic)",
+            "path": "Political Economy: Government Expenditures & Related Policies eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Pension Reform (Sub-Topic)",
+            "path": "SIRN: Employment-Based Pensions (Topic)"
+        },
+        {
+            "label": "CGN: Mutual Funds & Pension Funds (Topic)",
+            "path": "Corporate Governance: Governance of Special Types of Firms eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "SIRN: International Comparisons (Retirement) (Sub-Topic)",
+            "path": "SIRN: Retirement Income (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "CGN: Russia (Topic)",
+            "path": "Corporate Governance: International/Non-US eJournal"
+        },
+        {
+            "label": "SIRN: Adequacy of Benefits/Retirement Income (Sub-Topic)",
+            "path": "SIRN: Social Security (Topic)"
+        },
+        {
+            "label": "Corporate Finance: Capital Structure & Payout Policies eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Wealth Management eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

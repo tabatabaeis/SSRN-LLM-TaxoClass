@@ -1,0 +1,162 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Historical Memory, Family, Community & Public History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Military History & Conflict Resolution eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Veterans & Military Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "כתב העת הדיגיטלי למשפט ציבורי- מאמרים שעלו לאחרונה | HRN: Public Law eJournal",
+            "path": "רשת מחקרים ומאמרים בעברית (Hebrew Research Network)"
+        },
+        {
+            "label": "Law & Humanities eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Information Privacy Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Intellectual Property: Copyright Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Public International Law: Human Rights eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Information Policy, Ethics, Access & Use eJournal",
+            "path": "Information & Library Science Research Network"
+        },
+        {
+            "label": "Veterans & Military Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "WGSRN: Women, Peace & Security (Topic)",
+            "path": "Gender & Global Issues eJournal"
+        },
+        {
+            "label": "Intellectual Property: Copyright Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Special Collections, Archives & Museums eJournal",
+            "path": "Information & Library Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Military History & Conflict Resolution eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Historical Memory, Family, Community & Public History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Veterans & Military Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Special Collections, Archives & Museums eJournal",
+            "path": "Information & Library Science Research Network"
+        },
+        {
+            "label": "Legal Information, Technology & Law Librarianship eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Historical Memory, Family, Community & Public History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Special Collections, Archives & Museums eJournal",
+            "path": "Information & Library Science Research Network"
+        },
+        {
+            "label": "Public International Law: Human Rights eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Information Policy, Ethics, Access & Use eJournal",
+            "path": "Information & Library Science Research Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Intellectual Property eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Military History & Conflict Resolution eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Historical Memory, Family, Community & Public History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Veterans & Military Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "כתב העת הדיגיטלי למשפט ציבורי- מאמרים שעלו לאחרונה | HRN: Public Law eJournal",
+            "path": "רשת מחקרים ומאמרים בעברית (Hebrew Research Network)"
+        },
+        {
+            "label": "Special Collections, Archives & Museums eJournal",
+            "path": "Information & Library Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Middle Eastern & Near Eastern History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Historiography & Philosophy of History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Intellectual Property eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "National Security & Foreign Relations Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Intellectual Property: Copyright Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "4"
+}

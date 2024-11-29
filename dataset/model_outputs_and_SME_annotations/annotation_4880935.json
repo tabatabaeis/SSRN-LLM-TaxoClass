@@ -1,0 +1,158 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Applied Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "WGSRN: Empirical Studies on Impact of Climate Change on Women (Sub-Topic)",
+            "path": "WGSRN: Extreme Events & Climate Change (Topic)"
+        },
+        {
+            "label": "Population Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Environmental Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Ecological Modeling eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Ecosystem Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Global Ecological Change & Pollution Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Marine Ecology eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Ecosystem Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Global Ecological Change & Pollution Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Marine Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Hydrology & Ocean Sciences eJournal",
+            "path": "Earth Science Research Network"
+        },
+        {
+            "label": "Environmental Science & Climate Change eJournal",
+            "path": "Environmental Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Ecosystem Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Global Ecological Change & Pollution Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Hydrology & Ocean Sciences eJournal",
+            "path": "Earth Science Research Network"
+        },
+        {
+            "label": "Marine Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Water Sustainability eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Global Ecological Change & Pollution Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Ecosystem Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Marine Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Environmental Science & Climate Change eJournal",
+            "path": "Environmental Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Marine Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Ecosystem Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Hydrology & Ocean Sciences eJournal",
+            "path": "Earth Science Research Network"
+        },
+        {
+            "label": "Environmental Science & Climate Change eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Applied Ecology eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Environmental Chemistry eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "ERN: Natural Resources (Topic)",
+            "path": "European Economics: Agriculture, Natural Resources & Environmental Studies eJournal"
+        },
+        {
+            "label": "Environmental Education eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Ecological Modeling eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Global Ecological Change & Pollution Ecology eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

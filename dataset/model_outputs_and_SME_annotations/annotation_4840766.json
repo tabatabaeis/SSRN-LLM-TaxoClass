@@ -1,0 +1,146 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "ERN: Income & In-Kind Transfer Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "SIRN: State Child Health Insurance Program (Sub-Topic)",
+            "path": "SIRN: Medicaid (Health Care Delivery) (Topic)"
+        },
+        {
+            "label": "SIRN: International Comparisons (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Finance & Economics of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Health & the Economy eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Health Economics Evaluation Methods eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Poverty & Inequality (Topic)",
+            "path": "Econometric Modeling: Macroeconomics eJournal"
+        },
+        {
+            "label": "ERN: Taxation, Subsidies, & Revenue (Topic)",
+            "path": "European Economics: Political Economy & Public Economics eJournal"
+        },
+        {
+            "label": "ERN: Income & In-Kind Transfer Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "SIRN: TANF (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "SIRN: International Comparisons (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        },
+        {
+            "label": "ERN: Income & In-Kind Transfer Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "PSN: Comparative Poverty (Topic)",
+            "path": "Political Economy - Development: International Development Efforts & Strategies eJournal"
+        },
+        {
+            "label": "ERN: Poverty & Inequality (Topic)",
+            "path": "Econometric Modeling: Macroeconomics eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "ERN: Income & In-Kind Transfer Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "SIRN: International Comparisons (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        },
+        {
+            "label": "PSN: Comparative Poverty (Topic)",
+            "path": "Political Economy - Development: International Development Efforts & Strategies eJournal"
+        },
+        {
+            "label": "PSN: Energy (Development) (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "PSN: Energy (Development) (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        },
+        {
+            "label": "ERN: Income & In-Kind Transfer Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "PSN: Comparative Poverty (Topic)",
+            "path": "Political Economy - Development: International Development Efforts & Strategies eJournal"
+        },
+        {
+            "label": "SIRN: International Comparisons (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        },
+        {
+            "label": "PSN: Renewable Resources & Energy (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Comparative Analyses of Health Expenditures (Sub-Topic)",
+            "path": "SIRN: Health Expenditures (Topic)"
+        },
+        {
+            "label": "PSN: Poverty Traps (Topic)",
+            "path": "Political Economy - Development: Underdevelopment & Poverty eJournal"
+        },
+        {
+            "label": "PSN: Energy (Development) (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        },
+        {
+            "label": "PSN: Child Mortality (Topic)",
+            "path": "Political Economy - Development: Health eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

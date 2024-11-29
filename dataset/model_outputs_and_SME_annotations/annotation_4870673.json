@@ -1,0 +1,110 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "SIRN: Private Disability Insurance (Sub-Topic)",
+            "path": "SIRN: Other Sickness & Disability Insurance (Topic)"
+        },
+        {
+            "label": "SIRN: Cost Containment (Health) (Sub-Topic)",
+            "path": "SIRN: Health Expenditures (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Public Goods & Regulation in Health Economics eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Risk Management eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "SIRN: Comparative Health Insurance Models (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "Insurance Law, Legislation, & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "SIRN: Comparative Health Insurance Models (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "Insurance Law, Legislation, & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "SIRN: Cost Containment (Health) (Sub-Topic)",
+            "path": "SIRN: Health Expenditures (Topic)"
+        },
+        {
+            "label": "Insurance Law, Legislation, & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Comparative Health Insurance Models (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "Risk, Regulation, & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Health Law, Policy & Ethics eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

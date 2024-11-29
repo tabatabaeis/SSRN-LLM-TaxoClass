@@ -1,0 +1,126 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Women, Gender & the Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "WGSRN: Rule of Law & Access to Justice (Sub-Topic)",
+            "path": "WGSRN: Women, Peace & Security (Topic)"
+        },
+        {
+            "label": "Family & Children's Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "English & Commonwealth Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Family & Children's Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Family Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "India Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Family & Children's Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "India Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Women, Gender & the Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Gender & Social Protection eJournal",
+            "path": "Womens & Gender Studies Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Family & Children's Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "India Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Family Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Family & Children's Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "India Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Family Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Legal Anthropology: Family Law eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Family & Children's Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "India Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Family Law, Relations & Dispute Resolution eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: Family Law, Relations & Dispute Resolution eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law, Politics & the Media eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Family & Children's Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "5",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

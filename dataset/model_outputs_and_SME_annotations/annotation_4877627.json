@@ -1,0 +1,94 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Family, Life Course & Aging eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Labor: Demographics & Economics of the Family eJournal",
+            "path": "Labor eJournals"
+        },
+        {
+            "label": "Household Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "WGSRN: Work-Life Conflict (Sub-Topic)",
+            "path": "WGSRN: Gender, Work, Family (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Educational Psychology & Cognition eJournal",
+            "path": "Education Research Network"
+        },
+        {
+            "label": "EduRN: Educational Policy (Topic)",
+            "path": "Sociology of Education eJournal"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Family & Children's Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Poverty, Income Distribution & Income Assistance eJournal",
+            "path": "Social Insurance Research Network"
+        },
+        {
+            "label": "Social Security, Pensions & Retirement Income eJournal",
+            "path": "Social Insurance Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "SIRN: SSI (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        },
+        {
+            "label": "WGSRN: Gender Equality in Education & Health (Sub-Topic)",
+            "path": "WGSRN: Gender Disparity (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "SIRN: SSI (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        },
+        {
+            "label": "WGSRN: Gender Equality in Education & Health (Sub-Topic)",
+            "path": "WGSRN: Gender Disparity (Topic)"
+        },
+        {
+            "label": "Labor: Demographics & Economics of the Family eJournal",
+            "path": "Labor eJournals"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Overall Income Security (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Overall Income Security (Families with Children) (Sub-Topic)",
+            "path": "SIRN: Low Income Families with Children (Topic)"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "4",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

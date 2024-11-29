@@ -1,0 +1,6 @@
+{
+    "AB_ID": 4853561,
+    "AB_TITLE": "Improving Probability Estimates for Events by considering Types of Errors in Prediction Tasks",
+    "AB_CONTENT": "Tasks such as predicting the default of a credit or loan are standard tasks of machine learning. With the accuracy, recall, precision and AUC, a range of measures exist which allow an evaluation of the overall model. These measures are based on classifications and probability estimates for events, such as a default on a loan. In addition to these models-level measures, I am interested in what can be said about a specific case: given the prediction made by a model for a specific case, what is the most likely error made? I find that taking into account the conditional probability of a specific error given the probability assigned by the model to the event under consideration substantially increases the usability of classifications and predictions. Users of classification and prediction algorithms should take into account not only the classification and prediction as produced by their model, but also the error most likely to occur, when making decisions based on this information.",
+    "AB_KEYWORDS": "machine learning, decision analysis, credit default, loan default, cost-based model evaluation JEL classification: C38, C53, C58, G21"
+}

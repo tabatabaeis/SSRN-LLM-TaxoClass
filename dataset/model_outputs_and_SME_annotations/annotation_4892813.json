@@ -1,0 +1,86 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "SIRN: Individual Health Insurance (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "ERPN: Bankruptcy (Sub-Topic)",
+            "path": "ERPN: Regulation (Topic)"
+        },
+        {
+            "label": "SIRN: Private Disability Insurance (Sub-Topic)",
+            "path": "SIRN: Other Sickness & Disability Insurance (Topic)"
+        },
+        {
+            "label": "SIRN: Medicaid (Persons with Disabilities) (Sub-Topic)",
+            "path": "SIRN: Low Income Persons with Disabilities (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Health & the Economy eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Bankruptcy, Reorganization & Creditors eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Individual Health Insurance (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Health Insurance Reform (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Health Insurance Reform (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "Insurance & Financing in Health Care eJournal",
+            "path": "Health Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "SIRN: Employer-Based Health Insurance (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "SIRN: Health Care Including HCTC (Sub-Topic)",
+            "path": "SIRN: Wage Replacement Policies (Topic)"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

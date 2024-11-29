@@ -1,0 +1,86 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "PSN: Neuro-Politics/Neuro-Law (Topic)",
+            "path": "Political Behavior: Cognition, Psychology, & Behavior eJournal"
+        },
+        {
+            "label": "Neuroscience Public Health eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "PSN: Voters & Elections (Topic)",
+            "path": "Political Behavior: Voting & Public Opinion eJournal"
+        },
+        {
+            "label": "Neurolaw & Neuroethics eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Neuro-Politics/Neuro-Law (Topic)",
+            "path": "Political Behavior: Cognition, Psychology, & Behavior eJournal"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Neuro-Politics/Neuro-Law (Topic)",
+            "path": "Political Behavior: Cognition, Psychology, & Behavior eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Neuro-Politics/Neuro-Law (Topic)",
+            "path": "Political Behavior: Cognition, Psychology, & Behavior eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "PSN: Neuro-Politics/Neuro-Law (Topic)",
+            "path": "Political Behavior: Cognition, Psychology, & Behavior eJournal"
+        },
+        {
+            "label": "Law, Brain & Behavior eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Artificial Intelligence - Law, Policy, & Ethics eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "PSN: Neuro-Politics/Neuro-Law (Topic)",
+            "path": "Political Behavior: Cognition, Psychology, & Behavior eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "PSN: Public Opinion (Topic)",
+            "path": "Political Behavior: Voting & Public Opinion eJournal"
+        },
+        {
+            "label": "PSN: Political Behavior (Topic)",
+            "path": "Political Behavior: Cognition, Psychology, & Behavior eJournal"
+        },
+        {
+            "label": "Neuroscience Public Health eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

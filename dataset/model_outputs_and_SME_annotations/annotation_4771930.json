@@ -1,0 +1,158 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Infectious Diseases eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Planetary Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Human Health & Disease eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Global Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Social Determinants of Public Health eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Animal Behavior, Intelligence & Human-Animal Interaction eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Animal Law, Welfare, Ethics & Forensics eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Animal Nutrition & Veterinary Pharmacology eJournal",
+            "path": "Veterinary Science Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Veterinary Science Research Network",
+            "path": "Health Sciences"
+        },
+        {
+            "label": "Large Animal Research eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Veterinary Microbiology, Virology, Toxicology & Parasitology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Environment & Public Health eJournal",
+            "path": "Environmental Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Veterinary Microbiology, Virology, Toxicology & Parasitology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Agricultural Sustainability & Security eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Agricultural Economics eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Large Animal Research eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Infectious Diseases eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Veterinary Microbiology, Virology, Toxicology & Parasitology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Human Health & Disease eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Infectious Diseases eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Global Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Virology eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Veterinary Microbiology, Virology, Toxicology & Parasitology eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Infectious Diseases eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Human Health & Disease eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Wildlife, Zoo & Shelter Veterinary Medicine eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Global Health eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Wildlife, Zoo & Shelter Veterinary Medicine eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Agricultural Sustainability & Security eJournal",
+            "path": "Agricultural Science Research Network"
+        },
+        {
+            "label": "Environment & Public Health eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Large Animal Research eJournal",
+            "path": "Veterinary Science Research Network"
+        },
+        {
+            "label": "Infectious Diseases eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

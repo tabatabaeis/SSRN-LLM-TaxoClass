@@ -1,0 +1,134 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Economic History eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "BHNP: History of Industry Development (Topic)",
+            "path": "Business History eJournal"
+        },
+        {
+            "label": "ERN: Theories of the Firm (Topic)",
+            "path": "Organizations & Markets: Formal & Informal Structures eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Economic Growth eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "ERPN: Macroeconomic Influences (Sub-Topic)",
+            "path": "ERPN: Economic Development & Technological Change (Topic)"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Development Economics: Regional & Country Studies eJournal",
+            "path": "Development Economics eJournals"
+        },
+        {
+            "label": "Macroeconomics eJournals",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Economic History eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Latin American Business eJournal",
+            "path": "MRN International Business & Management Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Economic History eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "BHNP: History of Industry Development (Topic)",
+            "path": "Business History eJournal"
+        },
+        {
+            "label": "Latin American Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "ERN: Empirical Studies of Firms & Industries in Transitional Economies (Topic)",
+            "path": "Institutions & Transition Economics: Microeconomic Issues eJournal"
+        },
+        {
+            "label": "CGN: Continental Europe (Topic)",
+            "path": "Corporate Governance: International/Non-US eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Economic History eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Banking, Finance, Economy & Trade History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Latin American Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "BHNP: History of Industry Development (Topic)",
+            "path": "Business History eJournal"
+        },
+        {
+            "label": "Accounting, Corporate Governance, Law & Institutions eJournal",
+            "path": "Accounting Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "ERN: Firm Behavior (IO: Empirical) (Topic)",
+            "path": "IO: Empirical Studies of Firms & Markets eJournal"
+        },
+        {
+            "label": "ERPN: Market Structure (Industrial) (Sub-Topic)",
+            "path": "ERPN: Industrial Organization (Topic)"
+        },
+        {
+            "label": "ERN: Entry & Exit (Topic)",
+            "path": "IO: Theory eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "CGN: Continental Europe (Topic)",
+            "path": "Corporate Governance: International/Non-US eJournal"
+        },
+        {
+            "label": "Latin American Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "ERN: Theories of the Firm (Topic)",
+            "path": "Organizations & Markets: Formal & Informal Structures eJournal"
+        },
+        {
+            "label": "ERN: Empirical Studies of Firms & Industries in Transitional Economies (Topic)",
+            "path": "Institutions & Transition Economics: Microeconomic Issues eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

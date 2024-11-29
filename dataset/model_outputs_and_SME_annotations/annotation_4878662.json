@@ -1,0 +1,106 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "ERPN: Environmental Studies (Sub-Topic)",
+            "path": "ERPN: Social Sciences (Sub-Topic)"
+        },
+        {
+            "label": "ERPN: Social Responsibility, Sustainability & Environmental Policy (Sub-Topic)",
+            "path": "ERPN: Social Responsibility & Public Policy (Topic)"
+        },
+        {
+            "label": "ERPN: Value Creation (Sub-Topic)",
+            "path": "ERPN: Strategy (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Stakeholder Management & Stakeholder Responsibilities eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Sustainability & Economics eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Sustainability at Work eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Stakeholder Management & Stakeholder Responsibilities eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Social Innovation eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Sources of Innovation eJournal",
+            "path": "Innovation Areas eJournals"
+        },
+        {
+            "label": "IRPN: Innovation & Strategy (Topic)",
+            "path": "Management of Innovation eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "ERPN: Environmental Studies (Sub-Topic)",
+            "path": "ERPN: Social Sciences (Sub-Topic)"
+        },
+        {
+            "label": "ERPN: Social Responsibility, Sustainability & Environmental Policy (Sub-Topic)",
+            "path": "ERPN: Social Responsibility & Public Policy (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "ERPN: Environmental Studies (Sub-Topic)",
+            "path": "ERPN: Social Sciences (Sub-Topic)"
+        },
+        {
+            "label": "ERPN: Social Responsibility, Sustainability & Environmental Policy (Sub-Topic)",
+            "path": "ERPN: Social Responsibility & Public Policy (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "ERPN: Environmental Studies (Sub-Topic)",
+            "path": "ERPN: Social Sciences (Sub-Topic)"
+        },
+        {
+            "label": "Sustainability & Economics eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ERPN: Organizational Strategy (Sub-Topic)",
+            "path": "ERPN: Social Entrepreneurs (Topic)"
+        },
+        {
+            "label": "Social Innovation eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "ERPN: Social Entrepreneurship (Sub-Topic)",
+            "path": "ERPN: Social Responsibility & Public Policy (Topic)"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

@@ -1,0 +1,154 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "SIRN: Role of Technology & Prescription Drugs (Sub-Topic)",
+            "path": "SIRN: Health Expenditures (Topic)"
+        },
+        {
+            "label": "Planetary Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "SIRN: Sick Leave (Sub-Topic)",
+            "path": "SIRN: Other Sickness & Disability Insurance (Topic)"
+        },
+        {
+            "label": "PsychRN: Chronic Illnesses, Disabilities, & Rehabilitation (Topic)",
+            "path": "Health Psychology eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Environment & Human Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Global Health Organizations & Partnerships eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Water, Sanitation & Hygiene (WASH) eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Planetary Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Environment & Human Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Pharmacology & Toxicology eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Diabetes & Endocrinology eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Nephrology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Pharmacology & Toxicology eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Pharmacy eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Environment & Human Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Planetary Health eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Nephrology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Environment & Human Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Pharmacology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Pharmacy eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Pharmaceutics & Drug Discovery eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Pharmacology & Toxicology eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Pharmacy eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Environment & Human Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Pharmaceutics & Drug Discovery eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Environment & Public Health eJournal",
+            "path": "Environmental Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Pharmacology & Toxicology eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Environment & Human Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Critical Care eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Planetary Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Emergency Responses & Vulnerable Populations eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

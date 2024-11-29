@@ -1,0 +1,158 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Decision-Making Models & Tools eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Decision Science Education eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Decision-Making in Economics & Finance eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "ERN: Uncertainty & Risk Modeling (Topic)",
+            "path": "Microeconomics: Decision-Making under Risk & Uncertainty eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "Decision-Making Models & Tools eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Decision-Making & Management Science eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Decision-Making in Economics & Finance eJournal",
+            "path": "Decision Science Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Decision Neuroscience eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Decision-Making in Economics & Finance eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Decision-Making in Engineering eJournal",
+            "path": "Decision Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Artificial Intelligence eJournal",
+            "path": "Computer Science Research Network"
+        },
+        {
+            "label": "ERN: Statistical Decision Theory; Operations Research (Topic)",
+            "path": "Econometrics: Econometric & Statistical Methods - Special Topics eJournal"
+        },
+        {
+            "label": "Decision-Making Models & Tools eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Decision-Making in Economics & Finance eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "ERN: Uncertainty & Risk Modeling (Topic)",
+            "path": "Microeconomics: Decision-Making under Risk & Uncertainty eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Decision-Making Models & Tools eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Decision-Making in Economics & Finance eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "ERN: Uncertainty & Risk Modeling (Topic)",
+            "path": "Microeconomics: Decision-Making under Risk & Uncertainty eJournal"
+        },
+        {
+            "label": "ERN: Neural Networks & Related Topics (Topic)",
+            "path": "Econometrics: Econometric & Statistical Methods - Special Topics eJournal"
+        },
+        {
+            "label": "Risk Management eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Decision-Making Models & Tools eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Decision-Making in Economics & Finance eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Decision Science Education eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "ERN: Credit Risk (Topic)",
+            "path": "Econometric Modeling: Capital Markets - Risk eJournal"
+        },
+        {
+            "label": "Risk Management & Analysis in Financial Institutions eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ERN: Bayesian Analysis (Topic)",
+            "path": "Econometrics: Econometric & Statistical Methods - General eJournal"
+        },
+        {
+            "label": "Decision-Making & Management Science eJournal",
+            "path": "Decision Science Research Network"
+        },
+        {
+            "label": "Quantitative Methods in Investing & Financial Statement Analysis eJournal",
+            "path": "Financial & Investment Planning Research Network"
+        },
+        {
+            "label": "Risk Management eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Consumer Financial Fraud eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

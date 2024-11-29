@@ -1,0 +1,114 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "IRPN: Innovation & History of Economic Thought (Topic)",
+            "path": "Economics of Innovation eJournal"
+        },
+        {
+            "label": "IRPN: Political Science of Innovation (Topic)",
+            "path": "Innovation & Geography eJournal"
+        },
+        {
+            "label": "PSN: Civil Wars (Topic)",
+            "path": "Conflict Studies: Intra-State Conflict eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "African & African Diaspora History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Banking, Finance, Economy & Trade History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Historical Memory, Family, Community & Public History eJournal",
+            "path": "History Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Economic History eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "ERN: Innovation (Topic)",
+            "path": "IO: Productivity, Innovation & Technology eJournal"
+        },
+        {
+            "label": "IRPN: Innovation & Economic History (Topic)",
+            "path": "Economics of Innovation eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Technology (Topic)",
+            "path": "IO: Productivity, Innovation & Technology eJournal"
+        },
+        {
+            "label": "ERPN: Technological Change (Sub-Topic)",
+            "path": "ERPN: Economic Development & Technological Change (Topic)"
+        },
+        {
+            "label": "IRPN: Innovation & Economic History (Topic)",
+            "path": "Economics of Innovation eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "ERN: Technology (Topic)",
+            "path": "IO: Productivity, Innovation & Technology eJournal"
+        },
+        {
+            "label": "ERPN: Technological Change (Sub-Topic)",
+            "path": "ERPN: Economic Development & Technological Change (Topic)"
+        },
+        {
+            "label": "IRPN: Innovation & Development Economics (Topic)",
+            "path": "Economics of Innovation eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "ERN: Intellectual Property (Topic)",
+            "path": "IO: Productivity, Innovation & Technology eJournal"
+        },
+        {
+            "label": "IRPN: Innovation & Economic Growth (Topic)",
+            "path": "Economics of Innovation eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "IRPN: Innovation & Industrial Organization (Topic)",
+            "path": "Economics of Innovation eJournal"
+        },
+        {
+            "label": "IRPN: Innovation & Patent Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Intellectual Property Law & Policy (Topic)"
+        },
+        {
+            "label": "Economic & Social Impacts of Innovation eJournal",
+            "path": "Innovation Areas eJournals"
+        },
+        {
+            "label": "ERPN: Technological Change (Sub-Topic)",
+            "path": "ERPN: Economic Development & Technological Change (Topic)"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

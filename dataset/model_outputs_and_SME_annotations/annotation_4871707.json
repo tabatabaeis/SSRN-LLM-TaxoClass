@@ -1,0 +1,154 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Labor: Public Policy & Regulation eJournal",
+            "path": "Labor eJournals"
+        },
+        {
+            "label": "Economic Perspectives on Employment & Labor Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "CGN: Securities Regulation (Sub-Topic)",
+            "path": "CGN: Governance Law & Arrangements by Subject Matter (Topic)"
+        },
+        {
+            "label": "CGN: Financial Advisors (Sub-Topic)",
+            "path": "CGN: Gatekeepers (Topic)"
+        },
+        {
+            "label": "Employee Benefits, Compensation & Pension Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: Private Law - Labor & Employment Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Securities Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "White Collar Crime eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Employment Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Labor & Employment Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Securities Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Employment Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "CGN: Securities Regulation Practice (Sub-Topic)",
+            "path": "CGN: Legal Practice (Topic)"
+        },
+        {
+            "label": "Law & Society: Private Law - Labor & Employment Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "CGN: Securities Regulation (Sub-Topic)",
+            "path": "CGN: Governance Law & Arrangements by Subject Matter (Topic)"
+        },
+        {
+            "label": "Labor Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Employment Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "CGN: Securities Regulation (Sub-Topic)",
+            "path": "CGN: Governance Law & Arrangements by Subject Matter (Topic)"
+        },
+        {
+            "label": "CGN: Securities Regulation Practice (Sub-Topic)",
+            "path": "CGN: Legal Practice (Topic)"
+        },
+        {
+            "label": "Securities Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "CGN: Employee Involvement in Corporate Governance (Topic)",
+            "path": "Corporate Governance: Actors & Players eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Employment Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Labor & Employment Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Labor Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Labor: Public Policy & Regulation eJournal",
+            "path": "Labor eJournals"
+        },
+        {
+            "label": "Labor: Personnel Economics eJournal",
+            "path": "Labor eJournals"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "International Employment & Labor Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Discrimination Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Labor: Personnel Economics eJournal",
+            "path": "Labor eJournals"
+        },
+        {
+            "label": "CGN: Securities Regulation (Sub-Topic)",
+            "path": "CGN: Governance Law & Arrangements by Subject Matter (Topic)"
+        },
+        {
+            "label": "Governance, Incentives & Compensation eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

@@ -1,0 +1,146 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Public Health Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "SIRN: State Health Insurance Reform (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Nursing Evidence-Based Practice eJournal",
+            "path": "Nursing Research Network"
+        },
+        {
+            "label": "Health Systems & Hospital Infrastructure eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Politics & Governance of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Finance & Economics of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Politics & Governance of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "ERN: Health Care Policy (Sub-Topic)",
+            "path": "ERN: Primary Taxonomy (Topic)"
+        },
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Demand & Supply in Health Economics eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Macroeconomic Issues in Health Care eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Politics & Governance of Public Health eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Health Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Finance & Economics of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Politics & Governance of Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "PSN: Health Care (Topic)",
+            "path": "Comparative Political Economy: Social Welfare Policy eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Nursing Evidence-Based Practice eJournal",
+            "path": "Nursing Research Network"
+        },
+        {
+            "label": "Global Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Public Health eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Politics & Governance of Public Health eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Public Health Policy eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Geographic Health Economics eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "Health & the Economy eJournal",
+            "path": "Health Economics Network"
+        },
+        {
+            "label": "SIRN: State Health Insurance Reform (Sub-Topic)",
+            "path": "SIRN: Health Insurance (Topic)"
+        },
+        {
+            "label": "Social Determinants of Public Health eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "1",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

@@ -1,0 +1,162 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Financial Engineering eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "Risk Management eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Forecasting Models eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "Pension Risk Management eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "ERN: Computational Techniques (Topic)",
+            "path": "Econometrics: Mathematical Methods & Programming eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Capital Markets: Asset Pricing & Valuation eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Capital Markets: Market Efficiency eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Capital Markets: Market Microstructure eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Capital Markets: Asset Pricing & Valuation eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Capital Markets: Market Efficiency eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "Mutual Funds, Hedge Funds & Investment Industry eJournal",
+            "path": "Banking & Financial Institutions eJournals"
+        },
+        {
+            "label": "Innovation Finance & Accounting eJournal",
+            "path": "Innovation Disciplines eJournals"
+        },
+        {
+            "label": "Financial Engineering eJournal",
+            "path": "MRN Operations Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Financial Engineering eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "Econometric Modeling: Capital Markets - Portfolio Theory eJournal",
+            "path": "Econometric Modeling: Financial Markets - Capital Markets eJournals"
+        },
+        {
+            "label": "ERN: Forecasting Techniques (Topic)",
+            "path": "Econometric Modeling: Capital Markets - Forecasting eJournal"
+        },
+        {
+            "label": "ERN: Stock Market Risk (Topic)",
+            "path": "Econometric Modeling: Capital Markets - Risk eJournal"
+        },
+        {
+            "label": "Behavioral & Experimental Finance eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Econometric Modeling: Capital Markets - Portfolio Theory eJournal",
+            "path": "Econometric Modeling: Financial Markets - Capital Markets eJournals"
+        },
+        {
+            "label": "Financial Engineering eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "Behavioral & Experimental Finance eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "ERN: Forecasting Techniques (Topic)",
+            "path": "Econometric Modeling: Capital Markets - Forecasting eJournal"
+        },
+        {
+            "label": "Quantitative Methods in Investing & Financial Statement Analysis eJournal",
+            "path": "Financial & Investment Planning Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Financial Engineering eJournal",
+            "path": "MRN Operations Research Network"
+        },
+        {
+            "label": "Econometric Modeling: Capital Markets - Portfolio Theory eJournal",
+            "path": "Econometric Modeling: Financial Markets - Capital Markets eJournals"
+        },
+        {
+            "label": "Quantitative Methods in Investing & Financial Statement Analysis eJournal",
+            "path": "Financial & Investment Planning Research Network"
+        },
+        {
+            "label": "Risk Management eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "ERN: Neural Networks & Related Topics (Topic)",
+            "path": "Econometrics: Econometric & Statistical Methods - Special Topics eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "IRPN: Innovation & Finance (Topic)",
+            "path": "Innovation Finance & Accounting eJournal"
+        },
+        {
+            "label": "Capital Markets: Asset Pricing & Valuation eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "ERN: Asset Price Forecasts (Topic)",
+            "path": "Econometric Modeling: Capital Markets - Forecasting eJournal"
+        },
+        {
+            "label": "Technology & Investing eJournal",
+            "path": "Financial & Investment Planning Research Network"
+        },
+        {
+            "label": "Behavioral & Experimental Finance eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

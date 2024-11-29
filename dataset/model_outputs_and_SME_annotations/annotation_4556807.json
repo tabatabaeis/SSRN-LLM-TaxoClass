@@ -1,0 +1,146 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Computational Biology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Stem Cell eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Oncology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Diabetes & Endocrinology eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Mechanisms of Neurodegeneration, Neuroregeneration & Neuroprotection eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Biology & Cognitive Science eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biology & Philosophy eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biology & Sustainability eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Biology Research Network",
+            "path": "Life Sciences"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Computational Biology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Medical Genetics & Genomics eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Physiology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biochemical Mechanisms eJournal",
+            "path": "Biochemistry Research Network"
+        },
+        {
+            "label": "Protein & Peptide Biochemistry eJournal",
+            "path": "Biochemistry Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Computational Biology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Medical Genetics & Genomics eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Physiology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biochemistry eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biological Physics eJournal",
+            "path": "Physics Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Computational Biology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Medical Genetics & Genomics eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Physiology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biochemistry Methods eJournal",
+            "path": "Biochemistry Research Network"
+        },
+        {
+            "label": "Biology & Cognitive Science eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Biochemistry eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Medical Genetics & Genomics eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Computational Biology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biotechnology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Biochemistry Methods eJournal",
+            "path": "Biochemistry Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "1"
+}

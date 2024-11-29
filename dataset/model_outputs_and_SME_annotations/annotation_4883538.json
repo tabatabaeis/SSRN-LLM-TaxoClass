@@ -1,0 +1,114 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "PSN: Local Politics & Policy (Topic)",
+            "path": "Political Institutions: Federalism & Sub-National Politics eJournal"
+        },
+        {
+            "label": "Law & Society: Public Law - Corporations eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Compliance & Risk Management eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "CGN: Governmental & Semi-Governmental Firms (Topic)",
+            "path": "Corporate Governance: Governance of Special Types of Firms eJournal"
+        },
+        {
+            "label": "Stakeholder Management & Stakeholder Responsibilities eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Historical Memory, Family, Community & Public History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Military History & Conflict Resolution eJournal",
+            "path": "History Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Communication Studies Research Network",
+            "path": "Social Sciences"
+        },
+        {
+            "label": "Qualitative Research in Communication eJournal",
+            "path": "Communication Studies Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Sociology of Law eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Conflict & Dispute Resolution eJournal",
+            "path": "MRN Negotiations & Dispute Resolution Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Conflict & Dispute Resolution eJournal",
+            "path": "MRN Negotiations & Dispute Resolution Network"
+        },
+        {
+            "label": "Sociology of Law eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Communication, Conflict & Change eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "Law, Norms & Informal Order eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Public Administration (Development) (Topic)",
+            "path": "Political Economy - Development: Public Service Delivery eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Philosophy of Law eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Philosophy of Language eJournal",
+            "path": "Philosophy Research Network"
+        },
+        {
+            "label": "Sociology of Law eJournal",
+            "path": "Sociology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Sociology of Law eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Conflict & Dispute Resolution eJournal",
+            "path": "MRN Negotiations & Dispute Resolution Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

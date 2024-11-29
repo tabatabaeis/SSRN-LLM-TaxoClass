@@ -1,0 +1,118 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Geomorphology & Sedimentary Geology eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Geochemistry & Petrology eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Structural & Marine Geology & Tectonics eJournal",
+            "path": "Geology Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Geochemistry & Petrology eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Geomorphology & Sedimentary Geology eJournal",
+            "path": "Geology Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Earth Science Research Network",
+            "path": "Physical Sciences"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Structural & Marine Geology & Tectonics eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Geochemistry & Petrology eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Applied & Engineering Geology eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Environmental Geoscience eJournal",
+            "path": "Environmental Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Geomorphology & Sedimentary Geology eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Structural & Marine Geology & Tectonics eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Geoinformatics & Computational Methods in Geology eJournal",
+            "path": "Geology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Applied & Engineering Geology eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Geomorphology & Sedimentary Geology eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Geochemistry & Petrology eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Earth-Surface Processes eJournal",
+            "path": "Earth Science Research Network"
+        },
+        {
+            "label": "Computational Earth Science eJournal",
+            "path": "Earth Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Computational Earth Science eJournal",
+            "path": "Earth Science Research Network"
+        },
+        {
+            "label": "Structural & Marine Geology & Tectonics eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Geochemistry & Petrology eJournal",
+            "path": "Geology Research Network"
+        },
+        {
+            "label": "Geomorphology & Sedimentary Geology eJournal",
+            "path": "Geology Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

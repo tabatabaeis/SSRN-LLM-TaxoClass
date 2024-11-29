@@ -1,0 +1,154 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Computational Materials Science eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Physical Chemistry eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Computational & Theoretical Chemistry eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Bioengineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Electronic, Optical & Magnetic Materials eJournal",
+            "path": "Materials Science Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Electronic, Optical & Magnetic Materials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Nanomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Structural Materials eJournal",
+            "path": "Materials Science Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Biomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Electronic, Optical & Magnetic Materials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Materials for Energy eJournal",
+            "path": "Materials Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Nanomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Materials Science eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Electrochemistry eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Physical Chemistry eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Materials for Energy eJournal",
+            "path": "Materials Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Nanomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Electronic, Optical & Magnetic Materials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Electrochemistry eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Materials for Energy eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Physical Chemistry eJournal",
+            "path": "Chemistry Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Nanomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Materials for Energy eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Materials Science eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Electrochemistry eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Physical Chemistry eJournal",
+            "path": "Chemistry Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Quantum Information eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Materials Engineering eJournal",
+            "path": "Engineering Research Network"
+        },
+        {
+            "label": "Computational & Theoretical Chemistry eJournal",
+            "path": "Chemistry Research Network"
+        },
+        {
+            "label": "Chemical Physics eJournal",
+            "path": "Physics Research Network"
+        },
+        {
+            "label": "Materials for Energy eJournal",
+            "path": "Materials Science Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

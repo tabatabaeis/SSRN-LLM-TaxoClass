@@ -1,0 +1,126 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "ERN: Microeconometric Models of Natural Resource Management in Developing Economies (Topic)",
+            "path": "Econometric Modeling: Microeconometric Models of the Environment eJournal"
+        },
+        {
+            "label": "ERN: Natural Resource Economics (Topic)",
+            "path": "Econometric Modeling: Agriculture, Natural Resources & Environmental Economics eJournal"
+        },
+        {
+            "label": "WGSRN: Gender, Vulnerability, Adaptation & Resilience (Sub-Topic)",
+            "path": "WGSRN: Extreme Events & Climate Change (Topic)"
+        },
+        {
+            "label": "ERN: Agriculture & the Environment (Topic)",
+            "path": "Development Economics: Agriculture, Natural Resources, & Environmental Impact eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Sustainability at Work eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Sustainability & Economics eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "Water Sustainability eJournal",
+            "path": "Sustainability Research & Policy Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Environmental Science Research Network",
+            "path": "Physical Sciences"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Sustainable Development (Topic)",
+            "path": "Political Economy - Development: Environment eJournal"
+        },
+        {
+            "label": "ERN: Exploitation of Renewable & Non-Renewables Natural Resources & the Environment (Topic)",
+            "path": "Development Economics: Agriculture, Natural Resources, & Environmental Impact eJournal"
+        },
+        {
+            "label": "Sustainability & Economics eJournal",
+            "path": "Sustainability Research & Policy Network"
+        },
+        {
+            "label": "ERN: Natural Resource Economics (Topic)",
+            "path": "Econometric Modeling: Agriculture, Natural Resources & Environmental Economics eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Agricultural & Natural Resource Economics eJournal",
+            "path": "Economics Research Network"
+        },
+        {
+            "label": "ERN: Exploitation of Renewable & Non-Renewables Natural Resources & the Environment (Topic)",
+            "path": "Development Economics: Agriculture, Natural Resources, & Environmental Impact eJournal"
+        },
+        {
+            "label": "ERN: Environmental Economics (Topic)",
+            "path": "Econometric Modeling: Agriculture, Natural Resources & Environmental Economics eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Natural Resource Management & Conservation eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "ERN: Natural Resources (Topic)",
+            "path": "European Economics: Agriculture, Natural Resources & Environmental Studies eJournal"
+        },
+        {
+            "label": "ERN: Agriculture & the Environment (Topic)",
+            "path": "Development Economics: Agriculture, Natural Resources, & Environmental Impact eJournal"
+        },
+        {
+            "label": "Applied Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Environmental Sociology eJournal",
+            "path": "Sociology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ERN: Environmental Studies (Topic)",
+            "path": "European Economics: Agriculture, Natural Resources & Environmental Studies eJournal"
+        },
+        {
+            "label": "ERN: Exploitation of Renewable & Non-Renewables Natural Resources & the Environment (Topic)",
+            "path": "Development Economics: Agriculture, Natural Resources, & Environmental Impact eJournal"
+        },
+        {
+            "label": "Natural Resource Management & Conservation eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "ERN: Natural Resource Economics (Topic)",
+            "path": "Econometric Modeling: Agriculture, Natural Resources & Environmental Economics eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

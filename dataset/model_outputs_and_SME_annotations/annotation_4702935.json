@@ -1,0 +1,134 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "IRPN: Innovation & Copyright Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Intellectual Property Law & Policy (Topic)"
+        },
+        {
+            "label": "Law & Society: Private Law - Intellectual Property eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "ERPN: Copyright & Trademark (Sub-Topic)",
+            "path": "ERPN: Intellectual Property (Topic)"
+        },
+        {
+            "label": "IRPN: Sociology of Knowledge & Innovation (Topic)",
+            "path": "Sociology of Innovation eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Musicology & Ethnomusicology eJournal",
+            "path": "Music Research & Composition Network"
+        },
+        {
+            "label": "Music Theory, Practices & Repertoires eJournal",
+            "path": "Music Research & Composition Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "ERPN: Intellectual Property (Topic)",
+            "path": "Entrepreneurship & Law eJournal"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "IRPN: Innovation & Copyright Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Intellectual Property Law & Policy (Topic)"
+        },
+        {
+            "label": "Intellectual Property: Copyright Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Intellectual Property eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "ERPN: Copyright & Trademark (Sub-Topic)",
+            "path": "ERPN: Intellectual Property (Topic)"
+        },
+        {
+            "label": "IRPN: Intellectual Property (Including GPL, etc.) (Sub-Topic)",
+            "path": "IRPN: Innovation Policy Studies (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "IRPN: Innovation & Copyright Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Intellectual Property Law & Policy (Topic)"
+        },
+        {
+            "label": "Intellectual Property: Copyright Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Intellectual Property eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "ERPN: Copyright & Trademark (Sub-Topic)",
+            "path": "ERPN: Intellectual Property (Topic)"
+        },
+        {
+            "label": "IRPN: Intellectual Property (Including GPL, etc.) (Sub-Topic)",
+            "path": "IRPN: Innovation Policy Studies (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Intellectual Property: Copyright Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Private Law - Intellectual Property eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Music Psychology eJournal",
+            "path": "Music Research & Composition Network"
+        },
+        {
+            "label": "IRPN: Innovation & Copyright Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Intellectual Property Law & Policy (Topic)"
+        },
+        {
+            "label": "ERPN: Copyright & Trademark (Sub-Topic)",
+            "path": "ERPN: Intellectual Property (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "IRPN: Innovation & Copyright Law & Policy (Sub-Topic)",
+            "path": "IRPN: Innovation & Intellectual Property Law & Policy (Topic)"
+        },
+        {
+            "label": "Musicology & Ethnomusicology eJournal",
+            "path": "Music Research & Composition Network"
+        },
+        {
+            "label": "ERN: Intellectual Property (Topic)",
+            "path": "IO: Productivity, Innovation & Technology eJournal"
+        },
+        {
+            "label": "Law & Society: Private Law - Labor & Employment Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

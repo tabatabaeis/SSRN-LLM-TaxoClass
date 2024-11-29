@@ -1,0 +1,154 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Correlates of Crime eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law, Brain & Behavior eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Criminal Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Neurobiology of Cognitive Perception, Learning & Memory eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neuroanatomy, Brain Mapping & Connectomics eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Neural Pathways, Neural Circuits & Seizure Disorders eJournal",
+            "path": "Neuroscience Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Correlates of Crime eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Public Health Research Network",
+            "path": "Health Sciences"
+        },
+        {
+            "label": "Criminalistics eJournal",
+            "path": "Forensic Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Correlates of Crime eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Sociology of Crime & Deviance eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "WGSRN: Gender Difference in Crime & Access to Justice (Topic)",
+            "path": "Gender, Politics & Justice eJournal"
+        },
+        {
+            "label": "PsychRN: Disruptive, Impulse-Control, & Conduct Disorders (Sub-Topic)",
+            "path": "PsychRN: Psychopathologic & Personality Disorders (Topic)"
+        },
+        {
+            "label": "Crime & Psychology eJournal",
+            "path": "Criminal Justice Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Crime & Psychology eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Violence & Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Law, Brain & Behavior eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Crime, Criminal Law, & Punishment eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Correlates of Crime eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Types of Offending eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Biology & Law eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Sociology of Crime & Deviance eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "PsychRN: Disruptive, Impulse-Control, & Conduct Disorders (Sub-Topic)",
+            "path": "PsychRN: Psychopathologic & Personality Disorders (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "PsychRN: Forensic Psychology, Policy, & Law (Topic)",
+            "path": "Forensic Psychology eJournal"
+        },
+        {
+            "label": "Crime & Psychology eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Neurolaw & Neuroethics eJournal",
+            "path": "Neuroscience Research Network"
+        },
+        {
+            "label": "Sociology of Crime & Deviance eJournal",
+            "path": "Sociology Research Network"
+        },
+        {
+            "label": "Correlates of Crime eJournal",
+            "path": "Criminal Justice Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

@@ -1,0 +1,110 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "WGSRN: Investment Behavior, Competition, & Risk (Sub-Topic)",
+            "path": "WGSRN: Gender Difference in Corporate Governance & Finance (Topic)"
+        },
+        {
+            "label": "Financial Literacy eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "WGSRN: Gender & International Finance & Business Cycles (Sub-Topic)",
+            "path": "WGSRN: Gender & Globalization (Topic)"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Other Topics in Women's & Gender Studies eJournal",
+            "path": "Womens & Gender Studies Research Network"
+        },
+        {
+            "label": "Gender, Arts, Literature & Music eJournal",
+            "path": "Womens & Gender Studies Research Network"
+        },
+        {
+            "label": "WGSRN: Psychological/Behavioral Approaches (Topic)",
+            "path": "Feminist Methodology & Research eJournal"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Economic Inequality & the Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Financial Literacy eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Financial Literacy eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "WGSRN: Investment Behavior, Competition, & Risk (Sub-Topic)",
+            "path": "WGSRN: Gender Difference in Corporate Governance & Finance (Topic)"
+        },
+        {
+            "label": "Behavioral & Experimental Finance eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Gender Equality in Education & Health (Sub-Topic)",
+            "path": "WGSRN: Gender Disparity (Topic)"
+        },
+        {
+            "label": "Financial Literacy eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "WGSRN: Gender Equality, Macroeconomics & Institutional Change (Sub-Topic)",
+            "path": "WGSRN: Gender & Development (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Financial Literacy eJournal",
+            "path": "Financial Economics Network"
+        },
+        {
+            "label": "WGSRN: Gender Equality in Education & Health (Sub-Topic)",
+            "path": "WGSRN: Gender Disparity (Topic)"
+        },
+        {
+            "label": "WGSRN: Discrimination, Segmentation, & Occupational Segregation (Sub-Topic)",
+            "path": "WGSRN: Data Collection & Empirical Methods (Topic)"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "WGSRN: Household & Bargaining Models (Sub-Topic)",
+            "path": "WGSRN: Economic Approaches (Topic)"
+        },
+        {
+            "label": "WGSRN: Gender Equality in Education & Employment (Sub-Topic)",
+            "path": "WGSRN: Gender & Development (Topic)"
+        },
+        {
+            "label": "WGSRN: Gender Equality in Education & Health (Sub-Topic)",
+            "path": "WGSRN: Gender Disparity (Topic)"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "5",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

@@ -1,0 +1,134 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Forensic Evidence, Criminal Procedures & Ethics eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Criminalistics eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Forensic Accounting eJournal",
+            "path": "Accounting Research Network"
+        },
+        {
+            "label": "PsychRN: Forensic Psychology, Policy, & Law (Topic)",
+            "path": "Forensic Psychology eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Criminalistics eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Digital Forensics, Instruments & Software eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Forensic Evidence, Criminal Procedures & Ethics eJournal",
+            "path": "Forensic Science Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Forensic Science eJournal",
+            "path": "Criminal Justice Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Forensic Science eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Forensic Evidence, Criminal Procedures & Ethics eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Digital Forensics, Instruments & Software eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Criminalistics eJournal",
+            "path": "Forensic Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Forensic Science eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Forensic Evidence, Criminal Procedures & Ethics eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Digital Forensics, Instruments & Software eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Criminalistics eJournal",
+            "path": "Forensic Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Forensic Science eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Criminalistics eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Digital Forensics, Instruments & Software eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Forensic Evidence, Criminal Procedures & Ethics eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Forensic Economics eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: Public Law - Crime, Criminal Law, & Punishment eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Forensic Evidence, Criminal Procedures & Ethics eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Digital Forensics, Instruments & Software eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Forensic Medicine & Human Identification eJournal",
+            "path": "Forensic Science Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "4",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

@@ -1,0 +1,146 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Ancient European & Mediterranean History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Ancient Greek & Roman Social History eJournal",
+            "path": "Classics Research Network"
+        },
+        {
+            "label": "Ancient Greek & Roman History eJournal",
+            "path": "Classics Research Network"
+        },
+        {
+            "label": "Ancient Greek & Roman Law eJournal",
+            "path": "Classics Research Network"
+        },
+        {
+            "label": "Military History & Conflict Resolution eJournal",
+            "path": "History Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Ancient Greek & Roman Archaeology & Material Culture eJournal",
+            "path": "Classics Research Network"
+        },
+        {
+            "label": "Ancient Greek & Roman History eJournal",
+            "path": "Classics Research Network"
+        },
+        {
+            "label": "Ancient Greek & Roman Social History eJournal",
+            "path": "Classics Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Military History & Conflict Resolution eJournal",
+            "path": "History Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Military History & Conflict Resolution eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Ancient European & Mediterranean History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Archaeology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "Forensic Medicine & Human Identification eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Anthropology of Peace & Violence eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Military History & Conflict Resolution eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Archaeology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "Forensic Medicine & Human Identification eJournal",
+            "path": "Forensic Science Research Network"
+        },
+        {
+            "label": "Forensic Science eJournal",
+            "path": "Criminal Justice Research Network"
+        },
+        {
+            "label": "Anthropology of Peace & Violence eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Military History & Conflict Resolution eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Ancient European & Mediterranean History eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Archaeology eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "PSN: History of Intra-State Conflicts (Topic)",
+            "path": "Conflict Studies: Intra-State Conflict eJournal"
+        },
+        {
+            "label": "PSN: History of Inter-State Conflicts (Topic)",
+            "path": "Conflict Studies: Inter-State Conflict eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "History of Science & Environment eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Anthropology of Peace & Violence eJournal",
+            "path": "Anthropology & Archaeology Research Network"
+        },
+        {
+            "label": "Military History & Conflict Resolution eJournal",
+            "path": "History Research Network"
+        },
+        {
+            "label": "Ancient Greek & Roman Social History eJournal",
+            "path": "Classics Research Network"
+        },
+        {
+            "label": "Forensic Medicine & Human Identification eJournal",
+            "path": "Forensic Science Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

@@ -1,0 +1,134 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "CGN: Auditors (Sub-Topic)",
+            "path": "CGN: Gatekeepers (Topic)"
+        },
+        {
+            "label": "CGN: Accounting Practice (Topic)",
+            "path": "Corporate Governance Practice eJournal"
+        },
+        {
+            "label": "CGN: Governmental & Semi-Governmental Firms (Topic)",
+            "path": "Corporate Governance: Governance of Special Types of Firms eJournal"
+        },
+        {
+            "label": "Corporate Finance: Governance, Corporate Control & Organization eJournal",
+            "path": "Financial Economics Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: Public Law - Tax eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Tax Law & Policy eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Corporate Governance & Law eJournal",
+            "path": "Corporate Governance Network"
+        },
+        {
+            "label": "CGN: Political Economy/Public Choice Analysis of Corporate Laws (Topic)",
+            "path": "Corporate Governance: Arrangements & Laws eJournal"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: Public Law - Tax eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Tax Law: International & Comparative Tax eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "CGN: Accounting Practice (Topic)",
+            "path": "Corporate Governance Practice eJournal"
+        },
+        {
+            "label": "Corporate Governance & Accounting eJournal",
+            "path": "Corporate Governance Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Tax eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "CGN: UK (Topic)",
+            "path": "Corporate Governance: International/Non-US eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Corporate Governance & Accounting eJournal",
+            "path": "Corporate Governance Network"
+        },
+        {
+            "label": "Accounting, Corporate Governance, Law & Institutions eJournal",
+            "path": "Accounting Research Network"
+        },
+        {
+            "label": "CGN: Accounting Practice (Topic)",
+            "path": "Corporate Governance Practice eJournal"
+        },
+        {
+            "label": "Tax Law: International & Comparative Tax eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Corporate Governance & Law eJournal",
+            "path": "Corporate Governance Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "CGN: Boards & Directors (Topic)",
+            "path": "Corporate Governance: Actors & Players eJournal"
+        },
+        {
+            "label": "CGN: Accounting Practice (Topic)",
+            "path": "Corporate Governance Practice eJournal"
+        },
+        {
+            "label": "Corporate Governance & Accounting eJournal",
+            "path": "Corporate Governance Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "CGN: Continental Europe (Topic)",
+            "path": "Corporate Governance: International/Non-US eJournal"
+        },
+        {
+            "label": "CGN: Accounting Practice (Topic)",
+            "path": "Corporate Governance Practice eJournal"
+        },
+        {
+            "label": "CGN: Financial Advisors (Sub-Topic)",
+            "path": "CGN: Gatekeepers (Topic)"
+        },
+        {
+            "label": "Corporate Governance Law eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "3",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

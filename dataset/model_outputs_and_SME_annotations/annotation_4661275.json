@@ -1,0 +1,122 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "MKTG: Selling & Sales Management (Topic)",
+            "path": "Managerial Marketing eJournal"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Medical Devices eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Medical Education eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Medical Ethics eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Medical Research Network",
+            "path": "Health Sciences"
+        },
+        {
+            "label": "COVID-19 eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "MKTG: Selling & Sales Management (Topic)",
+            "path": "Managerial Marketing eJournal"
+        },
+        {
+            "label": "Technology, Operations Management & Production eJournal",
+            "path": "MRN Production & Operations Management Network"
+        },
+        {
+            "label": "ORG: Adoption, Resistance, & Diffusion of Innovations (Topic)",
+            "path": "Innovation & Organizational Behavior eJournal"
+        },
+        {
+            "label": "COVID-19 eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Information Systems: Behavioral & Social Methods eJournal",
+            "path": "Information Systems & eBusiness Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "MKTG: Selling & Sales Management (Topic)",
+            "path": "Managerial Marketing eJournal"
+        },
+        {
+            "label": "MKTG: Consumer Behavior (Sub-Topic)",
+            "path": "MKTG: Buyer Behavior (Topic)"
+        },
+        {
+            "label": "MKTG: Innovation & Diffusion (Topic)",
+            "path": "Behavioral Marketing eJournal"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Technology, Operations Management & Production eJournal",
+            "path": "MRN Production & Operations Management Network"
+        },
+        {
+            "label": "IRPN: Innovation & Product Development (Topic)",
+            "path": "Innovation & Management Science eJournal"
+        },
+        {
+            "label": "Medical Devices eJournal",
+            "path": "Medical Research Network"
+        },
+        {
+            "label": "Occupational Health eJournal",
+            "path": "Public Health Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "ORG: Adoption, Resistance, & Diffusion of Innovations (Topic)",
+            "path": "Innovation & Organizational Behavior eJournal"
+        },
+        {
+            "label": "Technology, Operations Management & Production eJournal",
+            "path": "MRN Production & Operations Management Network"
+        },
+        {
+            "label": "Information Systems: Behavioral & Social Methods eJournal",
+            "path": "Information Systems & eBusiness Network"
+        },
+        {
+            "label": "IRPN: Innovation & Product Development (Topic)",
+            "path": "Innovation & Management Science eJournal"
+        },
+        {
+            "label": "COVID-19 eJournal",
+            "path": "Medical Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "1"
+}

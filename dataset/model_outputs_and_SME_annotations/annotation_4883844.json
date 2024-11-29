@@ -1,0 +1,142 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Ecology Education eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Population Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Natural Resource Management & Conservation eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Biodiversity eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Ecology eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Ecosystem Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Community Ecology eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Agricultural Sustainability & Security eJournal",
+            "path": "Agricultural Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Natural Resource Management & Conservation eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Ecology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Applied Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Evolutionary Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Ecosystem Ecology eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Global Ecological Change & Pollution Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Natural Resource Management & Conservation eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Biodiversity eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Ecology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Ecology Education eJournal",
+            "path": "Ecology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Ecology eJournal",
+            "path": "Biology Research Network"
+        },
+        {
+            "label": "Applied Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Ecosystem Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Natural Resource Management & Conservation eJournal",
+            "path": "Environmental Science Research Network"
+        },
+        {
+            "label": "Zoology & Animal Behavior eJournal",
+            "path": "Biology Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Environmental, Medical & Human-Ecological Geography eJournal",
+            "path": "Geography Research Network"
+        },
+        {
+            "label": "Evolutionary Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Applied Ecology eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "Ecology Education eJournal",
+            "path": "Ecology Research Network"
+        },
+        {
+            "label": "ERN: Natural Resources (Topic)",
+            "path": "European Economics: Agriculture, Natural Resources & Environmental Studies eJournal"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "Yes",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "3",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "3"
+}

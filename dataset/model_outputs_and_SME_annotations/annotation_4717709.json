@@ -1,0 +1,150 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Preventive Dentistry, Oral Health & Oral Biosciences eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Nanomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Radiology, Device & Digital Dentistry eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Materials for Energy eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Materials Processing & Manufacturing eJournal",
+            "path": "Materials Science Research Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Endodontics, Periodontics, Oral Implantology & Prosthetics eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Dental Economics & Legal Context eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Radiology, Device & Digital Dentistry eJournal",
+            "path": "Dentistry Research Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Dentistry Research Network",
+            "path": "Health Sciences"
+        },
+        {
+            "label": "Endodontics, Periodontics, Oral Implantology & Prosthetics eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Nanomaterials eJournal",
+            "path": "Materials Science Research Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "Biomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Oral & Maxillofacial Surgery eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Endodontics, Periodontics, Oral Implantology & Prosthetics eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Radiology, Device & Digital Dentistry eJournal",
+            "path": "Dentistry Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "Dental Research Methods & Materials eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Biomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Nanomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Oral & Maxillofacial Surgery eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Radiology, Device & Digital Dentistry eJournal",
+            "path": "Dentistry Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Biomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Oral & Maxillofacial Surgery eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Preventive Dentistry, Oral Health & Oral Biosciences eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Pharmaceutics & Drug Discovery eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Bioengineering eJournal",
+            "path": "Engineering Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Radiology, Device & Digital Dentistry eJournal",
+            "path": "Dentistry Research Network"
+        },
+        {
+            "label": "Materials Processing & Manufacturing eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Biomaterials eJournal",
+            "path": "Materials Science Research Network"
+        },
+        {
+            "label": "Pharmaceutical & Medicinal Chemistry eJournal",
+            "path": "Pharmaceutical Science Research Network"
+        },
+        {
+            "label": "Dental Anesthesia, Pharmacology & Patient Safety eJournal",
+            "path": "Dentistry Research Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "No",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "2",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "4",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}

@@ -1,0 +1,126 @@
+{
+    "labels_RankRerank_approach_just_leaf_PostProcessed": [
+        {
+            "label": "Violence & Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Sports, Gaming & Entertainment Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "PSN: Terrorism Case Studies (Topic)",
+            "path": "Conflict Studies: Terrorism eJournal"
+        },
+        {
+            "label": "PSN: Strategies of Self-Defense (Topic)",
+            "path": "Conflict Studies: Prevention, Management & Resolution eJournal"
+        },
+        {
+            "label": "Race & Social Inequity eJournal",
+            "path": "Political Science Network"
+        }
+    ],
+    "labels_hierarchical_approach_5labels_PostProcessed": [
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed": [
+        {
+            "label": "Law & Society: Public Law - Courts eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_5labels_PostProcessed": [
+        {
+            "label": "PSN: Strategies of Self-Defense (Topic)",
+            "path": "Conflict Studies: Prevention, Management & Resolution eJournal"
+        },
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law, Politics & the Media eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Crime, Criminal Law, & Punishment eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed": [
+        {
+            "label": "PSN: Strategies of Self-Defense (Topic)",
+            "path": "Conflict Studies: Prevention, Management & Resolution eJournal"
+        },
+        {
+            "label": "Violence & Public Health eJournal",
+            "path": "Public Health Research Network"
+        },
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law, Politics & the Media eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Crime, Criminal Law, & Punishment eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed": [
+        {
+            "label": "Criminal Law eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Criminology eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law, Politics & the Media eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Criminal Law, Courts & Procedure eJournal",
+            "path": "Criminal Justice Research Network"
+        }
+    ],
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed": [
+        {
+            "label": "Game, Leisure & Sports Communication eJournal",
+            "path": "Communication Studies Research Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Crime, Criminal Law, & Punishment eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law, Politics & the Media eJournal",
+            "path": "Legal Scholarship Network"
+        },
+        {
+            "label": "Law & Society: Public Law - Courts eJournal",
+            "path": "Legal Scholarship Network"
+        }
+    ],
+    "labels_RankRerank_approach_just_leaf_PostProcessed__confidence": "No",
+    "labels_hierarchical_approach_5labels_PostProcessed__confidence": "No",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__confidence": "No",
+    "labels_Proposed_approach_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__confidence": "Yes",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__confidence": "Yes",
+    "labels_RankRerank_approach_just_leaf_PostProcessed__score": "2",
+    "labels_hierarchical_approach_5labels_PostProcessed__score": "1",
+    "labels_ShortenTaxonomy_approach_5labels_PostProcessed__score": "1",
+    "labels_Proposed_approach_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation1_5labels_PostProcessed__score": "3",
+    "labels_Proposed_approach_ablation2_5labels_PostProcessed__score": "2",
+    "labels_Proposed_approach_ablation3_5labels_PostProcessed__score": "2"
+}
